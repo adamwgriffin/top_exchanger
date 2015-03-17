@@ -1,7 +1,7 @@
 require "top_exchanger/version"
 require "top_exchanger/o365_translator"
 
-class TopExchanger < O365Translator::Base
+class TopProducerO365 < O365Translator::Base
 
   def initialize(import_file, export_file, mapping)
     @mapping = mapping || "top_exchanger/mapping.yml"
