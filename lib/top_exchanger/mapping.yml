@@ -1,0 +1,82 @@
+# Map Office 365 Exchange fields to Top Producer fields. The keys are
+# Exchange, their values are Top Producer. The value can also be a
+# hash with a "map" and/or "method" key. "Map" will be an array of
+# fields (presumeabley to concatentate), "method" will be a method to
+# call to use on the field value.
+
+# All exchange fields are included as keys, even if we are not mapping
+# a CMS field to them. This is so the app can use them to build the
+# headers for the import file it generates to do the exchange import.
+
+Title: Primary Title
+First Name: Primary FirstName
+Middle Name: Primary Initial
+Last Name: Primary LastName
+Suffix: 
+Company: Company
+Department: 
+Job Title: 
+Business street: 
+Business Street 2: 
+Business City: 
+Business State: 
+Business Postal Code: 
+Business Country: 
+Home street:
+  map:
+    - House Number
+    - Direction Prefix
+    - Street
+    - Street Designator
+    - Direction Suffix
+    - Suite No
+    - Bldg_Floor
+    - PO_Box
+  method: concat_street
+Home Street 2: 
+Home City: City
+Home State: State
+Home Postal Code: Zip
+Home Country: Country
+Other Street: 
+Other Street 2: 
+Other City: 
+Other State: 
+Other Postal Code: 
+Other Country: 
+Assistant's Phone: 
+Business Fax: 
+Business Phone: Bus Phone
+Business Phone 2: 
+Callback: 
+Company Main Phone: 
+Home Fax: Fax Number
+Home Phone: Home Phone
+Home Phone 2: 
+Mobile Phone: Mobile Phone
+Other Fax: 
+Other Phone: Other Phone
+Pager: 
+Primary Phone: 
+Radio Phone: 
+TTY/TDD Phone: 
+Telex: 
+Assistant's Name: 
+Business Address PO Box: 
+Categories: 
+Children: 
+E-mail: Email Address
+E-mail Type: 
+E-mail Display Name: Email Address
+E-mail 2 Address: Other Email_Web Addr
+E-mail 2 Type: 
+E-mail 2 Display Name: Other Email_Web Addr
+E-mail 3 Address: 
+E-mail 3 Type: 
+E-mail 3 Display Name: 
+Home Address PO Box: 
+Manager's Name: 
+Notes: 
+Office Location: 
+Other Address PO Box: 
+Web page: 
