@@ -8,7 +8,6 @@ class TopProducerO365 < O365Translator::Base
   @@default_mapping_file = File.join(File.dirname(File.expand_path(__FILE__)), "top_exchanger", "mapping.yml")
 
   def initialize(import_file, export_file, mapping_file)
-    # binding.pry
     @mapping_file = mapping_file || @@default_mapping_file
     super(import_file, export_file, @mapping_file)
   end
