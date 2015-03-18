@@ -6,8 +6,8 @@ module O365Translator
 
   class Base
 
-    def initialize(import_file, export_file, mapping)
-      @mapping = YAML.load_file(mapping) # full path to mapping.yml file
+    def initialize(import_file, export_file, mapping_file)
+      @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the file we're going to translate to o365 format
       # open output file & add headers
@@ -15,7 +15,7 @@ module O365Translator
       @output << @import_headers
     end
 
-    def translate!(encoding)
+    def translate(encoding)
       trancode = encoding ? "#{encoding}:UTF-8" : nil
       CSV.foreach(@export_file, headers: true, encoding: trancode) do |contact|
         new_contact = CSV::Row.new(@import_headers , [])
@@ -23,6 +23,7 @@ module O365Translator
           if map_col.is_a? Hash
             # map_col['map'] is an array of fields. The * splat gives a list of strings for slice()
             field_hash = contact.to_hash.slice( *map_col['map'] )
+            # call the method named in the config that will be defined in a subclass of this module
             new_contact[exchange_col] = send( map_col['method'], field_hash )
           else
             new_contact[exchange_col] = contact[map_col]
