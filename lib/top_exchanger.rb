@@ -1,15 +1,12 @@
 require "top_exchanger/version"
 require "top_exchanger/o365_translator"
-require "pry"
-require "pry-debugger"
 
 class TopProducerO365 < O365Translator::Base
 
   @@default_mapping_file = File.join(File.dirname(File.expand_path(__FILE__)), "top_exchanger", "mapping.yml")
 
-  def initialize(import_file, export_file, mapping_file)
-    @mapping_file = mapping_file || @@default_mapping_file
-    super(import_file, export_file, @mapping_file)
+  def initialize(import_file, export_file, mapping_file=@@default_mapping_file)
+    super(import_file, export_file, mapping_file)
   end
 
   def add_unit_num(unit, bldg)

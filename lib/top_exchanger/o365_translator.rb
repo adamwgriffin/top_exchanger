@@ -1,20 +1,17 @@
 require 'csv'
 require 'yaml'
 require 'active_support/core_ext/hash/slice'
-require "pry"
-require "pry-debugger"
 
 module O365Translator
 
   class Base
 
-    attr_accessor :mapping_file, :mapping, :export_file
+    attr_reader :import_file, :export_file, :mapping
 
     def initialize(import_file, export_file, mapping_file)
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the file we're going to translate to o365 format
-      # open output file & add headers
       @import_file = import_file
       @output = CSV.open(@import_file , "wb") # this is the translated file we're going to ouput
       @output << @import_headers
