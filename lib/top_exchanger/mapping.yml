@@ -12,16 +12,17 @@ Title: Primary Title
 First Name: Primary FirstName
 Middle Name: Primary Initial
 Last Name: Primary LastName
-Suffix: 
+Suffix:
+Spouse: Spouse Full Name
 Company: Company
-Department: 
-Job Title: 
-Business street: 
-Business Street 2: 
-Business City: 
-Business State: 
-Business Postal Code: 
-Business Country: 
+Department:
+Job Title:
+Business street:
+Business Street 2:
+Business City:
+Business State:
+Business Postal Code:
+Business Country:
 Home street:
   map:
     - House Number
@@ -33,50 +34,50 @@ Home street:
     - Bldg_Floor
     - PO_Box
   method: concat_street
-Home Street 2: 
+Home Street 2:
 Home City: City
 Home State: State
 Home Postal Code: Zip
 Home Country: Country
-Other Street: 
-Other Street 2: 
-Other City: 
-Other State: 
-Other Postal Code: 
-Other Country: 
-Assistant's Phone: 
-Business Fax: 
+Other Street:
+Other Street 2:
+Other City:
+Other State:
+Other Postal Code:
+Other Country:
+Assistant's Phone:
+Business Fax:
 Business Phone: Bus Phone
-Business Phone 2: 
-Callback: 
-Company Main Phone: 
+Business Phone 2:
+Callback:
+Company Main Phone:
 Home Fax: Fax Number
 Home Phone: Home Phone
-Home Phone 2: 
+Home Phone 2:
 Mobile Phone: Mobile Phone
-Other Fax: 
+Other Fax:
 Other Phone: Other Phone
-Pager: 
-Primary Phone: 
-Radio Phone: 
-TTY/TDD Phone: 
-Telex: 
-Assistant's Name: 
-Business Address PO Box: 
-Categories: 
-Children: 
+Pager:
+Primary Phone:
+Radio Phone:
+TTY/TDD Phone:
+Telex:
+Assistant's Name:
+Business Address PO Box:
+Categories:
+Children:
 E-mail: Email Address
-E-mail Type: 
+E-mail Type:
 E-mail Display Name: Email Address
 E-mail 2 Address: Other Email_Web Addr
-E-mail 2 Type: 
+E-mail 2 Type:
 E-mail 2 Display Name: Other Email_Web Addr
-E-mail 3 Address: 
-E-mail 3 Type: 
-E-mail 3 Display Name: 
-Home Address PO Box: 
-Manager's Name: 
-Notes: 
-Office Location: 
-Other Address PO Box: 
-Web page: 
+E-mail 3 Address:
+E-mail 3 Type:
+E-mail 3 Display Name:
+Home Address PO Box:
+Manager's Name:
+Notes:
+Office Location:
+Other Address PO Box:
+Web page:

@@ -1,0 +1,871 @@
+Contact ID,Contact Type,Source,Inquiry form,Primary FirstName,Primary LastName,Primary Initial,Primary NickName,Primary Jr_Sr,Primary Mr_Mrs,Primary Title,Primary Designation,Letter Salutation,Envelope/Label Salutation,Company,Primary Gender,Primary Birthday,Email Address,Unsubscribed,Web Address,Other Email_Web Type,Other Email_Web Addr,Other Email_Web Desc,Home Phone,Home Phone Ext,Home Ph Desc,Bus Phone,Bus Phone Ext,Bus Ph Desc,Other Phone,Other Phone Ext,Other Ph Desc,Other Ph Nums Title,Other Phone Nums,Other Phone Nums Ext,Other Ph Nums Desc,Mobile Phone,Mobile Phone Ext,Mobile Ph Desc,Pager Number,Pager Ext,Pager Desc,Fax Number,Fax Ext,Fax Desc,Urgency,Contact Note Date,Contact Notes,Hidden contacts,Secondary FirstName,Secondary LastName,Secondary Initial,Secondary NickName,Secondary Jr_Sr,Secondary Mr_Mrs,Secondary Title,Secondary Designation,Secondary Gender,Secondary Birthday,FF FirstName,FF LastName,FF Birthday,FF Relation,FF Resident,Asst FirstName,Asst LastName,Asst Initial,Asst Designation,Asst Email,Tenant ID,Tenant Primary FirstName,Tenant Primary LastName,Tenant Primary Mr/Mrs,Tenant Secondary FirstName,Tenant Secondary LastName,Tenant Secondary Mr/Mrs,Tenant Home Phone,Tenant Home Ext,Tenant Home Ph Desc,Tenant Business Phone,Tenant Bus Ext,Tenant Bus Ph Desc,Tenant Mobile Phone,Tenant Mobile Ext,Tenant Mobile Ph Desc,Address ID,Property Type,House Number,Direction Prefix,Street,Street Designator,Direction Suffix,Suite No,PO_Box,Bldg_Floor,City,County,State,Zip,Country,List Price,Sales Price,Taxes,Tax Year,Tax Asses,Land Asses,Air Con,RV Parking,Attached,Bldg Improve,Tax Roll No,Year Built,Bedrooms,Bathrooms,Lot Size,Sq Feet,Levels,House Style,Parking,Zoning,Flooring,Dist To Transit,Dist To School,Last Sold,Heating,Roof,Other Items,Construction,Exterior,Area,Fireplaces,Basement,Sewer,Water,Financing,Legal Descr,Property Descr,Room Type ID,Room Description,Room Length,Room Width,Room Dimension,Room,Features,Site/View,Present Min Price,Present Max Price,Present Property ID,Present Hm Note Date,Present Hm Notes,Future Min Price,Future Max Price,Future House Style,Future Sq Feet,Future Bedrooms,Future Bathrooms,Future Area,Future Dist To School,Future Features,Future Parking,Future Other Items,Future Hm Note Date,Future Hm Notes,Listing ID,List Addr ID,List Addr,List Exp Date,List Exp Reminder Date,List MLS No,List Property Type,List House Style,Listing Price,List Date,List Term,List Source,List Terms,List Status ID,List Status,List Note Date,List Notes,List Inclusions,List Exclusions,Sellers Name,List Seller,List Commission,How To Show,Sign Placed,Lock Box Checkbox State,Lock Box No,Flyer Description,Flyer Text,Closing ID,Closing Addr ID,Closing Addr,Closing MLS No,Closing Sales price,Closing Commission,Closing Source,File No,Closing Property Type,Acceptance Date,Possession Date,Closing Date,Representation,Closing Party ID,Closing Party Name,Closing Party Role,Closing Party Role ID,Closing Status ID,Closing Status,Closing Note Date,Closing Notes,Lead Type,Lead Status ID,Lead Status,Referred Contact ID,Referred Contact Name,Referred To/By Contact ID,Referred To/By Contact Name,Referral Direction,Referral Number,Referral Source,Referral Date,Transaction Status ID,Transaction Status,Referral Closing Date,Sale price,Commission Amount,Check Amount,Check Sent/Received Date,Referral Fee Percent,Referral Flat Fee,Referral Progress ID,Referral Progress Status,Referral Note Date,Referral Notes
+{2221AE9B-1502-4F0B-A65E-0008ABBF3E89},"Bulk Mail
+Windermere Business",,,Sue,Parker,,,,,,,"Dear Sue,",Sue Parker,,,,,No,,,,,206-232-7261,,,,,,,,,,,,,,,,,,,,,,,2005-11-09 11:51:03 AM2005-07-07 08:44:31 AM2005-01-17 11:47:25 AM2004-10-24 02:21:19 PM2004-01-09 11:36:09 AM2004-01-09 11:35:02 AM2003-11-08 10:54:38 AM2003-09-26 06:21:56 AM2003-07-23 06:12:34 AM2003-05-10 01:45:36 PM2003-03-22 09:46:20 AM2003-01-21 07:03:26 AM2002-11-12 10:49:01 AM2002-11-12 08:16:48 AM2002-11-12 08:10:52 AM2002-09-09 07:25:20 PM2002-07-20 08:30:06 AM2002-05-21 06:54:20 AM2002-03-19 08:14:28 PM2002-03-19 03:35:35 PM2002-01-22 01:15:59 PM2001-10-23 02:22:00 PM2001-10-19 09:29:12 AM2001-08-20 03:44:52 PM2001-06-10 12:41:50 PM2001-06-10 12:06:54 PM2001-06-08 09:30:09 PM2001-04-21 05:13:31 PM2001-02-12 10:50:47 AM2000-10-22 12:43:15 PM2000-08-24 12:02:53 PM2000-06-17 08:02:16 AM2000-04-20 09:55:48 PM2000-04-20 09:11:36 PM2000-04-20 09:09:41 PM2000-02-21 12:10:49 PM2000-02-21 12:05:49 PM2000-02-21 11:56:08 AM1999-11-18 02:46:16 PM1999-09-07 08:23:04 AM1999-08-24 12:43:52 PM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:49 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 08:14 PM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:22 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{CF2EBFCE-2D95-4FA4-A698-F206B01AFF05},Primary,2428,,62nd Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{D33D8231-20D1-4070-B538-000DCB0D4254},Realtor,,,Linda,Tsang,,,,,,,"Dear Linda,",Linda Tsang,Coldwell Banker Bain,,,,No,,,,,,,,206-947-8468,,,,,,,,,,,,,,,,206-232-0368,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{6D2EEF60-692C-4F2E-BBFE-79C2BD3DB9B8},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{D33D8231-20D1-4070-B538-000DCB0D4254},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{7BCCAA23-CA17-425F-BCE5-2B95674B143D},{61E99405-FFB3-4B2F-93C2-4BAF6F43FCFD},"8442 SE 39th Street, Mercer Island, WA",27131947,800000,21598,,,,9/4/07,10/12/07,10/12/07,Seller,"{D33D8231-20D1-4070-B538-000DCB0D4254}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{DEB13815-A052-4495-B967-B67B0D4D83F3}
+{17DFFF12-D5A4-4493-815C-C7B007E50905}
+{662307BE-2779-4139-9CBC-E04F28159D26}
+","Tsang, Linda
+Nickerson, Cori
+Spence, Maryanne
+Ning, Jenny
+Ronald, Richard and Au, Beatrice
+Newman, Gerry and Cooper, Harvey
+","Realtor
+Title rep
+Escrow
+[unassigned]
+Buyer
+Primary seller
+","2
+0
+2
+2
+4
+3
+",4,Closed/Paid,,,,,,,,,,,,,,,,,,,,,,,,,,
+{AF23BB5F-8B51-4097-A309-003D27C81936},"Bulk Mail
+Calendar
+Windermere Business",,,Connie,Wible,,,,,,,"Dear Connie,",Connie Wible,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2005-11-09 11:51:04 AM2005-07-07 08:44:32 AM2005-01-17 11:47:26 AM2004-10-24 02:21:21 PM2004-02-14 11:16:09 AM2004-01-09 11:36:10 AM2004-01-09 11:35:03 AM2003-11-08 10:54:39 AM2003-09-26 06:21:58 AM2003-07-23 06:12:36 AM2003-05-10 01:45:39 PM2003-03-22 09:46:23 AM2003-01-21 07:03:28 AM2002-12-11 04:57:06 PM2002-11-12 10:39:19 AM2002-11-12 08:16:49 AM2002-11-12 08:10:54 AM2002-07-20 08:30:09 AM2002-05-21 07:04:16 AM2002-05-21 06:54:23 AM2002-03-19 03:35:39 PM2002-01-22 01:16:01 PM2001-12-21 03:52:36 PM2001-10-23 02:21:53 PM2001-10-19 09:29:14 AM2001-08-20 03:56:20 PM2001-08-20 03:44:54 PM2001-06-10 12:41:52 PM2001-06-10 12:06:56 PM2001-06-08 09:30:04 PM2001-04-21 05:13:33 PM2001-02-12 10:50:49 AM2000-10-22 12:43:17 PM2000-08-24 12:02:55 PM2000-06-17 08:02:12 AM2000-04-20 09:55:43 PM2000-04-20 09:11:38 PM2000-04-20 09:09:36 PM2000-02-21 12:10:45 PM2000-02-21 12:05:45 PM2000-02-21 11:56:09 AM1999-11-18 02:46:17 PM1999-09-07 08:23:05 AM1999-08-24 12:43:52 PM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516002/14/2004 11:16 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:39 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 07:04 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:16 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:56 PM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{9E047908-6D29-4AE7-8E07-B5378802C326},Primary,3620,,76th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{F3D7E423-1420-421C-BC3F-004BD6AB6FF8},"Bulk Mail
+Windermere Business",,,Tim,Ganahl,,,,,,,"Dear Tim and Vicki,",Tim and Vicki Ganahl,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2005-11-10 01:13:55 PM2005-11-09 11:51:02 AM2005-07-07 08:44:30 AM2005-01-17 11:47:24 AM2004-10-24 02:21:17 PM2004-01-09 11:36:07 AM2004-01-09 11:35:00 AM2003-11-08 10:54:35 AM2003-09-26 06:21:54 AM2003-07-23 06:12:32 AM2003-05-10 01:45:33 PM2003-03-22 09:46:17 AM2003-01-21 07:03:23 AM2002-11-12 08:16:46 AM2002-11-12 08:10:49 AM2002-09-09 07:25:18 PM2002-07-20 08:30:03 AM2002-05-21 06:54:18 AM2002-03-19 03:35:32 PM2002-01-22 01:15:56 PM2001-10-23 02:21:52 PM2001-10-19 09:29:09 AM2001-08-20 03:44:50 PM2001-06-10 12:41:47 PM2001-06-10 12:06:51 PM2001-06-10 12:02:27 PM2001-06-10 11:56:29 AM2001-06-08 09:30:06 PM2001-04-21 05:13:29 PM2001-02-12 10:50:44 AM2000-10-22 12:43:12 PM2000-08-24 12:02:51 PM2000-06-17 08:02:13 AM2000-04-20 09:55:46 PM2000-04-20 09:11:34 PM2000-04-20 09:09:41 PM2000-02-21 12:10:49 PM2000-02-21 12:05:45 PM2000-02-21 11:56:05 AM1999-11-18 02:46:15 PM1999-09-07 08:23:03 AM1999-08-24 12:43:51 PM,11/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,Vicki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{41E46E05-5BB3-4535-B606-CAF2BD3914AF},Primary,2815,,69th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{D567FBE2-370D-41E6-B15C-00574886B7E9},"Estate Sales
+Windermere Business",,,Victor,Calvo,,,,,,,"Dear Victor,",Victor Calvo,Trading Post,,,,No,,,,,,,,425-643-6693,,,,,,,,,,,,,,,,,,,,6/2/00 10:02,06/02/2000 10:02 AM by Cynthia Schoonmaker - Liquidation Estate Sales- Per Jack Alhadeff,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{498BA75F-A842-4B83-8364-9D8BCAE03169},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{BDF5874D-1FFD-49BC-9CB9-0077E4EC0BF2},"Bulk Mail
+Windermere Business",,,Susan,Price,,,,,,,"Dear Susan,",Susan Price,,,,,No,,,,,206-230-8658,,,,,,,,,,,,,,,,,,,,,,,2005-11-09 11:51:03 AM2005-07-07 08:44:31 AM2005-01-17 11:47:25 AM2004-10-24 02:21:19 PM2004-01-09 11:36:09 AM2004-01-09 11:35:02 AM2003-11-08 10:54:38 AM2003-09-26 06:21:57 AM2003-07-23 06:12:34 AM2003-05-10 01:45:36 PM2003-03-22 09:46:21 AM2003-01-21 07:03:26 AM2002-11-12 08:16:48 AM2002-11-12 08:10:52 AM2002-09-09 07:25:20 PM2002-07-20 08:30:06 AM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{2C295304-4371-49B1-A15D-6FE9A4E30DF0},Primary,7235,,87th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{040B2726-F804-4D02-AE1D-00A2695AC9A5},"Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Movie-2010
+Windermere Business",,,Barbara,Kelly,,,,,,,"Dear Barbara,",Barbara Kelly,,,,,No,,,,,206-232-7906,,,,,,,,,,,,,,,,,,,,,,,2010-01-02 03:22:54 PM2005-11-09 11:51:02 AM2005-08-13 01:48:00 PM2005-07-07 08:44:31 AM2004-10-24 02:21:18 PM2004-01-09 11:36:08 AM2004-01-09 11:35:01 AM2003-11-08 10:54:36 AM2003-09-26 06:21:55 AM2003-07-23 06:12:33 AM2003-05-10 01:45:34 PM2003-05-06 07:25:53 AM2003-03-22 09:46:19 AM2003-01-21 07:03:25 AM2002-12-11 04:57:03 PM2002-11-12 08:16:46 AM2002-11-12 08:10:50 AM2002-09-09 07:25:19 PM2002-07-20 08:30:04 AM2002-05-21 06:54:14 AM2002-03-19 03:35:34 PM2002-03-07 06:00:16 AM2002-01-22 01:15:57 PM2001-12-21 03:52:34 PM2001-10-23 02:21:53 PM2001-10-19 09:29:10 AM2001-08-20 03:44:51 PM2001-06-10 12:41:48 PM2001-06-10 12:06:52 PM2001-06-08 09:30:07 PM2001-04-21 05:13:30 PM2001-02-12 10:50:45 AM2000-10-22 12:43:13 PM2000-08-24 12:02:52 PM2000-06-17 08:02:15 AM2000-04-20 09:55:47 PM2000-04-20 09:11:35 PM2000-04-20 09:09:36 PM2000-02-21 12:10:44 PM2000-02-21 12:05:45 PM2000-02-21 11:56:06 AM1999-11-18 02:46:15 PM1999-09-07 08:23:03 AM1999-08-24 12:43:51 PM,01/02/2010 03:22PM by Cynthia Schoonmaker  - Movie 200911/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516008/13/2005 01:48 PM by Cynthia Schoonmaker - Sister-Linda Kane07/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516005/06/2003 07:25 AM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{7224BC65-82FF-4870-9FDD-EC2B7D890184},Primary,2740,,76th Ave. SE,,,#207,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,{989CC35F-4BEC-42EC-98D2-5554EA37484B},{7224BC65-82FF-4870-9FDD-EC2B7D890184},"2740 76th Ave. SE, #207, Mercer Island, WA",4/1/09,3/23/09,28125399,Resale - condo-townhouse,,339000,7/21/08,254,,,8,Cancelled,2008-09-22 02:17:38 PM2008-08-25 01:49:38 PM,"09/22/2008 02:17PM by Cynthia Schoonmaker - Barbara in CA 11/14-12/208/25/2008 01:49PM by Cynthia Schoonmaker  - Fidelity Title 2-08070421
+
+Manager-Natanya 425-467-1436","
+","
+","Kelly, Barbara",{040B2726-F804-4D02-AE1D-00A2695AC9A5},3,,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3FD5680E-6DCC-4502-A695-00F4518523A8},"Contractor
+Windermere Business",,,Cedar,Decks,,,,,,,"Dear Cedar,",Cedar Decks,Cedar Decks,,,,No,,,,,,,,425-827-6706,,,,,,,,,,,,,,,,,,,,4/20/03 12:27,04/20/2003 12:27 PM by Cynthia Schoonmaker - Did our deck (SE 45th),0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{680E1D85-B598-45D2-A250-BFA8FF736596},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{FD5E4C0C-02E4-4D2F-8C0D-0103F9669F9A},"A List
+Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Windermere Business",,,Colin,Fukano,,,,,,,"Dear Colin and Irene,",Colin and Irene Fukano,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2006-03-21 11:36:36 AM2006-01-12 12:14:55 PM2005-11-10 01:13:55 PM2005-11-09 11:51:02 AM2005-11-02 10:36:58 AM2005-07-07 08:44:30 AM2005-02-06 11:13:32 AM2005-01-17 11:47:24 AM2004-10-24 02:21:17 PM2004-02-14 11:16:08 AM2004-02-08 09:57:28 AM2004-01-09 11:36:07 AM2004-01-09 11:35:00 AM2003-12-03 10:15:50 AM2003-11-08 10:54:35 AM2003-09-26 06:21:54 AM2003-07-23 06:12:32 AM2003-05-10 01:45:33 PM2003-03-22 09:46:17 AM2003-01-21 07:03:23 AM2002-12-11 04:57:02 PM2002-11-12 08:16:46 AM2002-11-12 08:10:49 AM2002-09-09 07:25:18 PM2002-07-20 08:30:03 AM2002-05-21 06:54:18 AM2002-03-19 03:35:32 PM2002-03-07 06:00:14 AM2002-01-22 01:15:56 PM2001-12-21 03:52:33 PM2001-10-23 02:21:56 PM2001-10-19 09:29:09 AM2001-08-20 03:44:50 PM2001-06-10 12:41:47 PM2001-06-10 12:06:51 PM2001-06-10 12:02:27 PM2001-06-10 11:56:29 AM2001-06-08 09:30:06 PM2001-04-21 05:13:29 PM2001-02-12 10:50:44 AM2000-10-22 12:43:12 PM2000-08-24 12:02:51 PM2000-06-17 08:02:13 AM2000-04-20 09:55:46 PM2000-04-20 09:11:34 PM2000-04-20 09:09:36 PM2000-02-21 12:10:45 PM2000-02-21 12:05:47 PM2000-02-21 11:56:05 AM1999-11-18 02:46:15 PM1999-09-07 08:23:03 AM1999-08-24 12:43:51 PM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/12/2006 12:14 PM by Cynthia Schoonmaker -  Label: Avery 516011/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516011/02/2005 10:36 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516002/06/2005 11:13 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516002/14/2004 11:16 AM by Cynthia Schoonmaker -  Label: Avery 516002/08/2004 09:57 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516012/03/2003 10:15 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,Irene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{9D125D64-F4E2-4556-9262-ACC3BED3255C},Primary,5639,,89th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{F740592A-0F5B-4BC6-8AD5-01140A21E7E0},,,,Cindy,Raffety,,,,,,,"Dear Cindy,",Cindy Raffety,,,,,No,,,,,,,,206-427-7948,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{2AAA42A9-E543-4F4E-ACE3-41A076EC3F62},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{F740592A-0F5B-4BC6-8AD5-01140A21E7E0},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{E508F39A-A5B4-4C11-B168-A09055F8B000},Pre-owned,5725,,91st,Avenue,SE,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{F740592A-0F5B-4BC6-8AD5-01140A21E7E0},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{1C503926-38E6-4910-83EB-CEEE5EE5632F},{D2F0CBD8-CD7D-4361-8826-CAFF9A0CE9C4},"5725 91st Avenue SE, Mercer Island, WA",,675000,16504.37,,,Resale - single family,3/2/13,6/2/13,3/29/13,Buyer,"{F740592A-0F5B-4BC6-8AD5-01140A21E7E0}
+{7A68BD5B-B083-490A-9404-2335000AB2E1}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{F5BE7B9D-5AE6-4D2A-9059-8C28C155BE3A}
+{BCFE0B9D-97B1-46BA-8E00-C42E1101D64D}
+{E502514F-B240-4331-B948-AAFF6757072E}
+","Raffety, Cindy
+Becklund, Julie
+Anderson, Tinya
+Carlson, Jerry
+Potashnik, Rob
+Harada, Linda
+","Seller
+Buyer
+Escrow
+Lender
+Realtor
+Title rep
+","3
+4
+2
+2
+2
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{0685A716-48DF-4122-AE7A-0119178CB97F},"Contractor
+Windermere Business",,,Pile Drive,Pile Drive,,,,,,,"Dear Pile Drive,",Pile Drive Pile Drive,McDowell Pile Driving,,,,No,,,,,,,,425-251-8570,,,,,,,,,,,,,,,,,,,,2006-06-17 06:38:00 PM2006-06-17 06:38:00 PM,06/17/2006 06:38 PM by Cynthia Schoonmaker - From Randy Koehler (RKK)06/17/2006 06:38 PM by Cynthia Schoonmaker - Also Pile King (for pipe piles) in South Renton.,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{48B76C30-B8DE-4772-8CED-2C1768D1EB5A},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{32C31537-3099-45AF-B86C-011BDE3D6A6E},Drywall,,,Eric,Mastor,,,,,,,"Dear Eric,",Eric Mastor,Wall Doctor,,,,No,http://www.thewalldoctor.biz,,,,,,,425-822-8121,,,,,,,,,,206-396-3804,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0E2C7298-C51E-4967-9989-68371A939E5C},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{61B99AE3-D7D8-4816-B6E3-014773E2CC7F},"Friend
+Realtor
+Windermere Business",,,Joanie,Bill,,,,,,,"Dear Joanie and Ransom,",Joanie and Ransom Bill,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,Ransom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{A84E57F5-6B95-4AE5-8C13-B5F00A04E11F},Primary,3535,,Pleasant Beach Dr. NE,,,,,,Bainbridge,,WA,98110,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{08C48EBD-7803-49D4-B7E7-015EC8098AD8},,Referral,,Stan,Cheng,,,,,,,"Dear Stan,",Stan Cheng,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{E8855BEF-E040-4B23-BD5B-FD5E71511456},Primary,,,82nd Ave SE,,,,,,Mercer Island,,W,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3446D38B-7CDE-482A-9E85-01693479916F},,,,Floyd,Goolsby,(Gregg),,,,,,"Dear Floyd and Brenda,",Floyd and Brenda Goolsby,,,,,No,,,,,,,,,,,,,,,,,,201-220-2497,,,,,,,,,,,,0,Brenda,Goolsby,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{8373260B-459D-409A-BB19-7EB7AC052A0F},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3446D38B-7CDE-482A-9E85-01693479916F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{5524948E-B772-4E46-8B53-2BCBDE1DFC21},Pre-owned,5310,,90th,Avenue,SE,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3446D38B-7CDE-482A-9E85-01693479916F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{754751C5-092F-41FB-AF84-8BC590BCB569},{CF773222-CFC2-48CB-A12D-7DAC8C7CD811},"5310 90th Avenue SE, Mercer Island, WA",,1484900,35892.56,,,Resale - single family,8/29/14,9/26/14,9/26/14,Buyer,"{3446D38B-7CDE-482A-9E85-01693479916F}
+{8112423D-1EAE-447F-B440-5738D2C1334F}
+{182C7E83-CDF5-4AB3-B3CA-7FEA68295A65}
+{8907D661-C606-4A82-BA10-CC58780301A8}
+{DFE6973F-6739-49C6-B186-F1E8D0AAD41F}
+{FEF53597-4569-463B-A81E-F0FD8EE99862}
+{9ADA7800-782C-474C-948A-F5146071728A}
+","Goolsby, Floyd and Brenda
+Zhang, Ming and Kowalik, Yarek
+Santucci, Michael
+Wittenberg, Robert
+Daniels, Tim
+Booth, Sabrina
+Carroll, Ryan
+","Seller
+Buyer
+Escrow
+Inspector
+Title
+Realtor
+Lender
+","3
+4
+2
+2
+2
+2
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{92D2E9AE-9089-4FAC-A940-01799B3ADEE8},"Lender
+Windermere Business",,,Marcia,Alexander,,,,,,,"Dear Marcia,",Marcia Alexander,Cuso Mortgage,,,,No,,,,,,,,800-400-4540,,,,,,Other bus.,925-314-2179,,,,,,,,,925-838-8681,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0E8B1940-7531-4486-A734-19C9A08E2148},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{92D2E9AE-9089-4FAC-A940-01799B3ADEE8},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F216E635-7848-41AD-8ED4-9D04FFE24C43},{4D7E7CE9-DB89-456A-A157-050D5D20489A},"1960 82nd Ave. SE, Mercer Island, WA",20026930,377000,4612,,,,3/24/00,5/7/00,5/4/00,Buyer,"{92D2E9AE-9089-4FAC-A940-01799B3ADEE8}
+{9F0BE229-6303-473B-A5BB-2F240B4AC1E3}
+{E502514F-B240-4331-B948-AAFF6757072E}
+{87D5F398-E3A6-4772-BEE4-B7BF7E178B07}
+{34A99DC1-6362-4479-89CC-FD9F2BE51E1F}
+{26C6727D-1DCB-4810-B4BA-F54863416637}
+","Alexander, Marcia
+Tiernan, Tracy and Eguchi, Lauren
+Harada, Linda
+Hummel, Matthew
+Miller, Barry and Marilyn
+Goulter, John
+","Lender
+Escrow
+Title rep
+Inspector
+Buyer
+Seller
+","2
+2
+2
+2
+4
+3
+",5,Fell Thru,2007-05-24 05:07:12 PM2000-03-26 01:54:00 PM,05/24/2007 05:07 PM by data conversion - Source:Open House03/26/2000 01:54 PM by Cynthia Schoonmaker - Chicago Title No. 569053,,,,,,,,,,,,,,,,,,,,,,,,
+{60995243-9392-4F42-9ED7-01C20A3CF1D7},Appraiser,,,Mike,Reed,,,,,,,"Dear Mike,",Mike Reed,,,,,No,,,,,,,,425-766-9200,,,,,,,,,,,,,,,,,,,,10/29/07 12:18,10/29/2007 12:18PM by Cynthia Schoonmaker  - referred by Wally Hall,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{21B6D477-B474-4D5C-90DA-9D6CC75FB8E7},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F},"Inspector
+Windermere Business",,,Leonard,Lepine,,,,,,,"Dear Leonard,",Leonard Lepine,Building Inspection Services,,,bis4258815122@hotmail.com,No,,,,,,,,(425) 881-5122,,,,,,,,,,,,,,,,,,,,5/19/03 11:55,05/19/2003 11:55 AM by Cynthia Schoonmaker - Inspected for Lacrampes (with son),0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{344EAD4A-5245-4633-9C6D-ED0A2A1EA5F0},Primary,15925,,NE 51st St,,,,,,Redmond,,WA,98052,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{AD085ECC-A958-4974-9923-0D8B92A5158C},{025842C1-426F-4502-B9EF-6850BD97C92D},"5704 93rd Place SE, Mercer Island, WA",23050800,977875,29336,Referral,,,4/30/03,6/26/03,6/23/03,Buyer,"{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F}
+{83934A67-0468-4528-AD4B-1C48DB9C3F43}
+{9F0BE229-6303-473B-A5BB-2F240B4AC1E3}
+{A2D30966-16BF-4FA9-A7A8-A419610BC9E0}
+{C193D9F2-E7EB-40D5-AAD5-E6FFDD86903C}
+{0CFD3920-4FFC-4223-A312-EC7AAD4B3784}
+","Lepine, Leonard
+Psyk, Leonard and Linda
+Tiernan, Tracy and Eguchi, Lauren
+LaCrampe, Donita and Marc
+Craig, Jason
+Johnson, Sunny
+","Inspector
+Seller
+Escrow
+Buyer
+Realtor
+Title rep
+","2
+3
+2
+4
+2
+2
+",5,Fell Thru,5/1/03 7:15,05/01/2003 07:15 AM by Cynthia Schoonmaker - Stewart Title #200358608,,,,,,,,,,,,,,,,,,,,,,,,
+{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0C449CF0-8E71-4C4D-B92E-D4679F4E6F19},{B6054BAF-EF1A-4B8B-8F9B-3FEE97BB901A},"6401 106th Avenue NE, Kirkland, WA",27149070,1300000,16250,,,,1/31/08,2/28/08,2/28/08,Buyer,"{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F}
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{63EF6E75-5335-435A-B231-EB4302D9030A}
+","Lepine, Leonard
+Krishnan, Murali and Ranjini
+Nickerson, Cori and Pollack, Sharon
+Anderson, Tinya
+Richter, Jeffrey and Trace, Kristen
+","Inspector
+Buyer
+Title rep
+Escrow
+Primary seller
+","2
+4
+0
+2
+3
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{2801BEEB-6DCA-40CA-9B2E-DE9B8C789126},{B14E78CB-B56B-4758-B678-0786C0E6F82C}, ,25161941,1102000,32481,,,,11/8/05,12/8/05,12/8/05,Buyer,"{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F}
+{199185F4-88D9-4685-B7D9-0C534C3BBD6B}
+{15867170-B846-4E3B-8FE7-235F7BDD70CC}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{9997D473-AF1E-443A-BAB6-FD869887BFA0}
+{EED06486-9044-4F5B-839B-DE49E89581D2}
+{E502514F-B240-4331-B948-AAFF6757072E}
+","Lepine, Leonard
+Holden, Lori
+
+Spence, Maryanne
+Boksem, Robert and Katinka
+Grimes, Jeff
+Harada, Linda
+","Inspector
+Realtor
+Seller
+Escrow
+Buyer
+Lender
+Title rep
+","2
+2
+3
+2
+4
+2
+2
+",4,Closed/Paid,,,,,,,,,,,,,,,,,,,,,,,,,,
+{8E9193F4-7DE6-42E7-B9AD-029A7BEFBB78},,,,Jennifer,Longo,,,,,,,"Dear Jennifer and Timothy,",Jennifer and Timothy Longo,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,Timothy,Longo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{52E5620D-0BA6-4D0F-8736-EDA6E4855354},Primary,8455,W,Mercer,Way,,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{334BFED3-A221-4512-80E5-EB475CF17B49},{52E5620D-0BA6-4D0F-8736-EDA6E4855354},"8455 W Mercer Way, Mercer Island, WA",512606,780000,22975.6,,,Resale - single family,7/9/13,8/20/13,8/6/13,Seller,"{8E9193F4-7DE6-42E7-B9AD-029A7BEFBB78}
+{412330A0-6BD1-46AC-B306-1D40F87BA63A}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{F3875F59-05CE-4815-879F-9AC619CE0B3E}
+{13E218AA-353A-491F-B244-BC9F2FFBB463}
+","Longo, Jennifer and Timothy
+Nelson, Sarah
+Nickerson, Cori
+Anderson, Tinya
+Aragon, Connie and Blumenthal, Len
+Franco, Mark
+","Buyer
+Realtor
+Title rep
+Escrow
+Seller
+Lender
+","4
+2
+2
+2
+3
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{7C38E88D-2CEB-46CC-99E7-02FF0008706E},"Friend
+Windermere Business",,,Tony,Scirica,,,,,,,"Dear Tony and Susan,",Tony and Susan Scirica,,,12/16/40,scirica@aol.com,No,,,,,610-825-2213,,,215-597-2399,,,267-463-7242 ext. Cell Tony,,Cell,Other bus.,208-622-8841 Sun Valley,,Sun Valley,610-420-4107,,Susan,,,,,,,,,,0,Susan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{95561A4F-1907-4C5D-A4CC-8F17FB5FC742},Primary,640,,Harts Ridge Rd,,,,,,Conshohocken,,PA,19428,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3602A93A-14EF-4245-8B2D-0338B17269CE},"Bulk Mail
+Windermere Business",,,Robert,Wiley,,,,Mr. and Mrs.,,,"Dear Robert and Mary Ann,",Robert and Mary Ann Wiley,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2005-11-09 11:51:04 AM2005-07-07 08:44:32 AM2005-01-17 11:47:26 AM2004-10-24 02:21:21 PM2004-02-14 11:16:09 AM2004-01-09 11:36:10 AM2004-01-09 11:35:03 AM2003-11-08 10:54:39 AM2003-09-26 06:21:58 AM2003-07-23 06:12:36 AM2003-05-10 01:45:39 PM2003-03-22 09:46:23 AM2003-01-21 07:03:28 AM2002-11-12 10:39:19 AM2002-11-12 08:16:49 AM2002-11-12 08:10:54 AM2002-09-09 07:25:22 PM2002-07-20 08:30:09 AM2002-05-21 07:04:16 AM2002-05-21 06:54:23 AM2002-03-19 03:35:39 PM2002-01-22 01:16:01 PM2001-10-23 02:21:59 PM2001-10-19 09:29:14 AM2001-08-20 03:56:20 PM2001-08-20 03:44:54 PM2001-06-10 12:41:52 PM2001-06-10 12:06:56 PM2001-06-08 09:30:04 PM2001-04-21 05:13:33 PM2001-02-12 10:50:49 AM2000-10-22 12:43:17 PM2000-08-24 12:02:55 PM2000-06-17 08:02:12 AM2000-04-20 09:55:44 PM2000-04-20 09:11:38 PM2000-04-20 09:09:40 PM2000-02-21 12:10:48 PM2000-02-21 12:05:48 PM2000-02-21 11:56:09 AM1999-11-18 02:46:17 PM1999-09-07 08:23:05 AM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516002/14/2004 11:16 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:39 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 07:04 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:16 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:56 PM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Mary Ann,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{DD3A29FE-E280-4B98-AFA3-1A3926F05A65},Primary,4211,,Holly Lane,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A115CA3C-3076-4F03-9E7E-035C9ED98454},"Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Organization
+Staging
+Windermere Business",,,Tim,Drangsholt,,,,,,,"Dear Tim and Peggy,",Tim Drangsholt and Peggy Timm,Organizing Options,,,,No,,,,,,,,206-232-6248,,,,,,,,,,,,,,,,,,,,2006-03-21 11:36:35 AM2005-11-09 11:51:02 AM2005-11-02 10:36:58 AM2005-07-07 08:44:30 AM2005-01-17 11:47:24 AM2004-10-24 02:21:16 PM2004-01-09 11:36:06 AM2004-01-09 11:34:59 AM2003-11-08 10:54:35 AM2003-09-26 06:21:53 AM2003-07-23 06:12:31 AM2003-05-10 01:45:32 PM2003-03-22 09:46:15 AM2003-01-21 07:03:22 AM2002-12-11 04:57:02 PM2002-11-12 08:16:45 AM2002-11-12 08:10:49 AM2002-09-09 07:25:16 PM2002-07-20 08:30:02 AM2002-05-21 06:54:17 AM2002-03-19 08:10:16 PM2002-03-19 03:35:31 PM2002-03-07 06:00:14 AM2002-01-22 01:15:55 PM2001-12-21 03:52:32 PM2001-10-23 02:21:58 PM2001-10-19 09:29:08 AM2001-08-20 03:44:49 PM2001-06-10 12:41:46 PM2001-06-10 12:06:51 PM2001-06-08 09:30:06 PM2001-04-21 05:13:28 PM2001-02-12 10:50:44 AM2000-10-22 12:43:11 PM2000-08-24 12:02:50 PM2000-06-17 08:02:13 AM2000-04-20 09:55:45 PM2000-04-20 09:11:34 PM2000-04-20 09:09:41 PM2000-02-21 12:10:49 PM2000-02-21 12:05:48 PM2000-02-21 11:56:05 AM1999-11-18 02:46:15 PM1999-09-07 08:23:03 AM1999-08-24 12:43:50 PM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516011/02/2005 10:36 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:34 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 08:10 PM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,Peggy,Timm,,,,,,,,,Siri,,,Family,Yes,,,,,,,,,,,,,,,,,,,,,,{DD6A762D-79E6-4D2D-AE1E-A92DEC62E324},Primary,4020,,East Mercer Way,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{52268908-C4EE-41C3-80B2-03770BEB43EB},,,,Garrett,Sloan,,,,,,,"Dear Garrett and Ilene,",Garrett and Ilene Sloan,,,,,No,,,,,bgsloan76@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,0,Ilene,Sloan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D4F58F86-CA73-4030-8614-257DC59C7E32},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{52268908-C4EE-41C3-80B2-03770BEB43EB},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{BE965822-B3CA-43EE-96F2-0829082284C8},{78743A04-BFDE-4A9E-833D-3581D5DE6C16},"7330 Island Crest Way, Mercer Island, WA",,1145000,28625,,,Resale - single family,9/25/14,10/31/14,10/27/14,Seller,"{52268908-C4EE-41C3-80B2-03770BEB43EB}
+{6CA84827-1445-4FF8-858F-16C1F9558C9F}
+{598858DA-28EA-44D2-B8B4-5791BF85E439}
+{C96D977D-2C35-487F-9E61-7FEA772F03D3}
+{7D7034B7-8868-46D9-925F-91D4E73AF421}
+{A74F1578-E7AD-4F16-9839-FD6F24135167}
+","Sloan, Garrett and Ilene
+Campbell, Jason
+Ross, Allen
+Bunich, Christy
+Smith, Steven and Erika
+Sarver, Terry
+","Buyer
+Realtor
+Lender
+Escrow
+Seller
+Title
+","4
+2
+2
+2
+3
+2
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{8BD6414D-C5E0-4C36-AB42-037BC2C2A74A},Calendar 2014,,,Susan,Kaplan,,,,,,,"Dear Susan and Henry,",Susan and Henry Kaplan,,,,susankaplan@comcast.net,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,Henry,Kaplan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{6AFDF90B-41E0-478A-8A0C-BC721E6711B2},Primary,6504,,80th,Ave,Se,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{8CECD94E-372B-4EDF-A33D-038E051934C9},"Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Movie-2010
+Past client
+Past Client-2008",,,Kurt,Wedgwood,,,,,,,"Dear Kurt and Jody,",Kurt Wedgwood and Jody Quickstad,,,,wedgwood@us.ibm.com,No,,Email,spodi7@hotmail.com,Jodi,206-281-8612,,,,,,206-795-0015,,Jody Cell,,,,,206-669-7766,,Kurt Cell,,,,,,,,2010-01-02 03:22:54 PM2007-11-12 08:58:00 AM,01/02/2010 03:22PM by Cynthia Schoonmaker  - Movie 200911/12/2007 08:58AM by Cynthia Schoonmaker  - rerferred  by Phil Dane,0,Jody,Quickstad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D1D23B11-898C-41DD-8F6C-A28816690EF9},Primary,8831,SE,37th,Street,,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{21CAA4E3-2001-439C-9BAA-A238DCB63C0E},{D1D23B11-898C-41DD-8F6C-A28816690EF9},"8831 SE 37th Street, Mercer Island, WA",28040449,2050000,32124.9,,,,3/20/08,5/9/08,5/9/08,Buyer,"{8CECD94E-372B-4EDF-A33D-038E051934C9}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{C60C735B-5C9E-4EB4-B421-52B9A6E9D50B}
+{953E3EEC-9634-46FE-BB00-9F0B80F51C18}
+{E502514F-B240-4331-B948-AAFF6757072E}
+","Wedgwood, Kurt and Quickstad, Jody
+Anderson, Tinya
+Gottesman, Dan and Wendy
+Gottesman, Dan and Wendy
+Harada, Linda
+","Buyer
+Escrow
+Realtor
+Primary seller
+Title rep
+","4
+2
+2
+3
+0
+",7,Closed/Paid Transferred,11/27/12 13:49,5% of SOC went to Nancy LaVallee,,,,,,,,,,,,,,,,,,,,,,,,
+{8CECD94E-372B-4EDF-A33D-038E051934C9},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F94B0535-F5E3-4EF5-BBF0-BFDA4A07DE34},Investment,2500,W,Viewmont,Way,W,,,,Seattle,,WA,98199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{0FF2076C-504B-4F9F-A045-03B0E4038FD9},Windermere Business,,,Wendell,Peterson,,,,,,,"Dear Wendell,",Wendell Peterson,"Windermere RE/East, Inc.",,,wpetereson@msn.com,No,,,,,425-883-7307,,,425-455-5300,,,,,,,,,,425-503-7188,,,,,,425-455-0725,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{05D37FE1-17F8-45C8-86B0-47FCEBD40FFF},Primary,700,,112th Ave. NE,,,#100,,,Bellevuer,,WA,98004,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{0FF2076C-504B-4F9F-A045-03B0E4038FD9},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{1C35C9AE-909A-43B4-9B4B-D9315B11FFEA},{8B35E01B-DDF9-4249-AFC0-5BFB35917A91},"4917 136th Place SE, Bellevue, WA",20039755,590000,4329,,,,6/12/00,7/25/00,7/25/00,Seller,"{0FF2076C-504B-4F9F-A045-03B0E4038FD9}
+{D924B1E5-A00A-4863-B9A4-2BAE4527147A}
+{BC343DB3-ACC0-4DE1-AAC0-A8CA7AD4720D}
+{D3FA1E6F-E339-4F67-B795-D6E2036099D5}
+","Peterson, Wendell
+Oliver, Alphonso
+Henry, Barbara
+Cochran, Stephen
+","No party role
+Buyer
+Realtor
+Seller
+","2
+4
+2
+3
+",7,Closed/Paid Transferred,5/24/07 17:07,05/24/2007 05:07 PM by data conversion - Source:Becker Referral,,,,,,,,,,,,,,,,,,,,,,,,
+{6E9E59D0-0B46-4EE7-9B4D-03C2368F459F},"Renter(s)
+Windermere Business",,,Keith,Metzger,,,,,,,"Dear Keith and Loring,",Keith and Loring Metzger,,,,Kmm@we-2.com,No,,,,,206-275-9708,,,206-816-8690,,,,,,,,,,206-696-5186,,,,,,,,,High,2005-11-09 11:51:03 AM2004-03-23 06:03:00 AM,"11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516003/23/2004 06:03 AM by Cynthia Schoonmaker - Called about Shaffer listing
+Has 4 year old da, rents $2150/month for 3 bd, 2 ba.  Lease up July 31, 2004",0,Loring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{389245AE-FD50-47DD-8E93-8E72BAC29EF0},Primary,,,,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{4D122D0B-9C47-4D6E-AAB7-03E6B01017EF},"Architect
+Windermere Business",,,Dan,Lassiter,,,,,,,"Dear Dan,",Dan Lassiter,,,,,No,,,,,206-283-6231,,,,,,,,,,,,,,,,,,,,,,,1/19/01 10:34,01/19/2001 10:34 AM by Cynthia Schoonmaker - Queen Anne specialte,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{A7F9BBE5-8BF9-4338-B8B2-C67222C3935C},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{5D6111A7-82DD-49BB-8AD5-03F43F34E482},"Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014",,,Jeff,Geoghagan,,,,,,,"Dear Jeff and Erin,",Jeff and Erin Geoghagan,,,,w.geoghagan@comcast.net,No,,,,,,,,,,,,,,,,,,206-914-9341,,,,,,,,,,,,0,Erin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F94515C2-3F53-4211-BA6E-C471A0B1DC47},Primary,7517,,85th,Avenue,SE,,,Mer,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{239349BD-87A6-40EA-B0D1-B5C6F056D33A},{F94515C2-3F53-4211-BA6E-C471A0B1DC47},"7517  85th Avenue SE, Mercer Island, WA",180593,783800,10282.37,,,Resale - single family,2/15/11,4/5/11,4/5/11,Seller,"{5D6111A7-82DD-49BB-8AD5-03F43F34E482}
+{56F25E4D-0DA4-4977-8410-0C91B50018AB}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{D8BFD5D7-D28E-497B-8190-36F78246A35E}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{0D1F7315-8BF8-4392-96AB-670AD54E3CDE}
+","Geoghagan, Jeff and Erin
+Holmes, Marc
+Nickerson, Cori
+Burns, Brett
+Anderson, Tinya
+Wong, Leslie & Shannon
+","Buyer
+Realtor
+Title rep
+Lender
+Escrow
+Seller
+","4
+2
+2
+2
+2
+3
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{5D6111A7-82DD-49BB-8AD5-03F43F34E482},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{569E4698-1BCD-432C-875B-88EFFB5514CA},Other,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{2F843C99-B350-4F67-A8FF-03FDF4CA9C06},"Realtor
+Windermere Business",,,Dave,Wahl,,,,,,,"Dear Dave,",Dave Wahl,Windermere/East,,,,No,,,,,425-868-6860,,,425-822-5100,,,,,,Other bus.,425-827-3400,,Office fax,425-503-4564,,,,,,425-868-8827,,Home fax,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{5B287A9D-67D6-4C4E-841F-55567936BDC1},Primary,4055,,Lake Washington Blvd,,,,,,Kirkland,,WA,98033,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{2F843C99-B350-4F67-A8FF-03FDF4CA9C06},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{C0AEAA02-8E3E-4FC9-A6BF-37D39FE31CFF},{41946ABB-AF45-4F25-B27D-B3531C726AA2},"15912 SE 43rd St, Bellevue, WA",22252132,339833,4991,,,,12/8/02,1/3/03,1/2/03,Seller,"{2F843C99-B350-4F67-A8FF-03FDF4CA9C06}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{54AB18A9-DAAA-44EB-BB58-8FAA2D67F27E}
+{9712933E-FC47-4A3F-B7EB-CD585ACCB84C}
+{E7D39FA9-1A43-4F7A-B3E0-D507CF6A44C2}
+","Wahl, Dave
+Nickerson, Cori and Pollack, Sharon
+Dane, Phil and Keasha
+Sam and Vicky
+Shank, Gregory and Lisa
+","Realtor
+Title rep
+Seller
+Escrow
+Buyer
+","2
+2
+3
+2
+4
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A924B30B-1FD6-4311-B851-04016B936E9C},Windermere Business,,,Jerry,Brennock,,,,,,,"Dear Jerry and Kristen,",Jerry and Kristen Brennock,,,,jerry.brennock@gmail.com,No,,,,,206-729-6396,,,,,,,,,,,,,206-406-7202,,,,,,,,,,8/4/05 16:36,08/04/2005 04:36 PM by Cynthia Schoonmaker - Interviewed-no (went with other agent),0,Kristen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{C60F5A20-40EC-4B90-8A6A-B134CE3E1652},Primary,8208,,Brooklyn Ave NE,,,,,,Seattle,,WA,98115,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},"Bulk Mail
+Calendar 2011
+Calendar 2012
+Calendar-08
+Movie-2010
+Past Client-2003
+Windermere Business",,,Murali,Krishnan,,,,,,,"Dear Murali and Ranjini,",Murali and Ranjini Krishnan,,,,muralirk@hotmail.com,No,,Other Email,ranjini_m@hotmail.com,Email: Ranjini,425-449-8282,,,,,,,,,,,,,425-260-4301,,Murali Cell,,,,,,,,2010-01-02 03:22:54 PM2005-11-10 01:13:55 PM2005-02-11 10:58:49 AM2004-10-27 10:41:45 AM2004-02-14 11:16:09 AM2004-02-07 02:52:02 PM2004-01-10 12:08:30 PM2003-11-09 10:49:39 AM2003-09-26 06:31:17 AM2003-08-05 08:16:32 AM,01/02/2010 03:22PM by Cynthia Schoonmaker  - Movie 200911/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/11/2005 10:58 AM by Cynthia Schoonmaker -  Label: Avery 516010/27/2004 10:41 AM by Cynthia Schoonmaker -  Label: Avery 516002/14/2004 11:16 AM by Cynthia Schoonmaker -  Label: Avery 516002/07/2004 02:52 PM by Cynthia Schoonmaker -  Label: Avery 516001/10/2004 12:08 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2003 10:49 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:31 AM by Cynthia Schoonmaker -  Label: Avery 516008/05/2003 08:16 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Ranjini,,,,,,,,,,Ovia,,12/31/04,Family,Yes,,,,,,,,,,,,,,,,,,,,,,{AEF1759F-29F1-4056-999D-25721D49F1E0},Primary,1701,,94th,Avenue,NE,,,,Clyde Hill,,WA,98004,USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F547672D-1793-4AB8-A4C5-7B96988EC7A6},Pre-owned,13801,,Old Redmond Road,,,D207,,,Redmond,,WA,98052,,168000,0,1488,2002,0,18200,,,,125800,4142400140,1987,2,1.75,,980,1,Condominium,Single Carport,,W/w carpet,,,3/29/00,Electric,Composition,Visitor parking,,Wood,Redmond,Wood,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{A386B283-37BB-49B8-87AA-3B24F671006D},Other,10905,,NE 39th Place,,,,,,Bellevue,,WA,98004,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{97580559-9C95-4590-96B7-EC6749EF6BA1},{A386B283-37BB-49B8-87AA-3B24F671006D},"10905 NE 39th Place, Bellevue, WA",23053723,795000,23418,,,,6/23/03,7/11/03,7/8/03,Buyer,"{B2C4C9F4-00CC-4CF4-895D-040E4673B06F}
+{91409DB0-B0FD-422A-A80E-1A5AC7994093}
+{471C00EC-D2C0-4206-A0DC-8322E649ECB6}
+{09F86544-4B6B-41F7-ABD6-921FA2218763}
+{D22CD796-255C-4016-BDDA-F950F1E55D72}
+{E502514F-B240-4331-B948-AAFF6757072E}
+","Krishnan, Murali and Ranjini
+Geller, Lowell and Leslie
+Lister, Wendy
+Rice, Rex
+Lohnes, Jerry
+Harada, Linda
+","Buyer
+Seller
+No party role
+Appraiser
+Inspector
+Title rep
+","4
+3
+2
+2
+2
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{80A7BDBE-E49D-4C42-A8B8-7E5F2383B6F4},{1C65E349-305B-486E-97B9-A0AA6AF56451},"13801 Old Redmond Road, #D207, Redmond, WA",12/1/03,11/19/03,23118394,,Condominium,168000,9/2/03,90,,,9,Closed/Paid Transferred,10/3/03 13:30,10/03/2003 01:30 PM by Cynthia Schoonmaker - Move-in fee $150.,"
+","
+","Krishnan, Murali and Ranjini",{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},2.5,,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{9082B57B-DCEA-4DF8-838B-15BCBAD3E039},{920F4B20-AFEA-4F60-A457-F644B022C233},"10315 NE 19th Place, Bellevue, WA",,580000,3,,,Resale - condo-townhouse,2/27/11,3/31/11,3/24/11,Buyer,"{B2C4C9F4-00CC-4CF4-895D-040E4673B06F}
+{CAE63B82-6E5F-4F06-B3E9-0CCDD8DCDA07}
+{9C56CCD5-5008-42D3-8D24-26944DF9A8A3}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{F98AFF96-0F1E-4250-9D27-CA80E0C36F33}
+","Krishnan, Murali and Ranjini
+Roth, Gary
+Rep, Title
+Anderson, Tinya
+McBride, Gregory and Katherine
+","Buyer
+Realtor
+Title
+Escrow
+Seller
+","4
+2
+2
+2
+3
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D1E90B61-D37D-4131-8250-4F1F027D6FEA},{1C65E349-305B-486E-97B9-A0AA6AF56451},"13801 Old Redmond Road, #D207, Redmond, WA",23118394,166500,3503,,,,10/5/03,11/19/03,11/19/03,Seller,"{B2C4C9F4-00CC-4CF4-895D-040E4673B06F}
+{718D2823-6FB7-4FAC-8608-182C41B2E5CE}
+{9F0BE229-6303-473B-A5BB-2F240B4AC1E3}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{E2D13C5A-F770-4FC3-8193-4CD45B5B6C5F}
+{6F3AFCFB-C20A-4635-8B50-5557223D7A22}
+","Krishnan, Murali and Ranjini
+Anderson, Stuart
+Tiernan, Tracy and Eguchi, Lauren
+Nickerson, Cori and Pollack, Sharon
+Mardi, Joe
+Fagan, David
+","Seller
+Realtor
+Escrow
+Title rep
+Lender
+Buyer
+","3
+2
+2
+2
+2
+4
+",7,Closed/Paid Transferred,2003-11-17 02:54:00 PM2003-10-16 09:50:00 AM2003-10-12 09:02:00 AM2003-10-12 09:00:00 AM,"11/17/2003 02:54 PM by Cynthia Schoonmaker - Joe Mardi-lender-loan processor fax 425-882-280010/16/2003 09:50 AM by Cynthia Schoonmaker - Appraiser: Amy House, Cornerstone 425-883-127010/12/2003 09:02 AM by Cynthia Schoonmaker - Received 10/8/03 and delivered 10/9/03
+They have 5 business days to review (10/16/03)10/12/2003 09:00 AM by Cynthia Schoonmaker - $400 credit at closing (in additon to $3000)",,,,,,,,,,,,,,,,,,,,,,,,
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0C449CF0-8E71-4C4D-B92E-D4679F4E6F19},{B6054BAF-EF1A-4B8B-8F9B-3FEE97BB901A},"6401 106th Avenue NE, Kirkland, WA",27149070,1300000,16250,,,,1/31/08,2/28/08,2/28/08,Buyer,"{A8D38C59-0F48-46F4-9E0F-01DFFEDE156F}
+{B2C4C9F4-00CC-4CF4-895D-040E4673B06F}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{63EF6E75-5335-435A-B231-EB4302D9030A}
+","Lepine, Leonard
+Krishnan, Murali and Ranjini
+Nickerson, Cori and Pollack, Sharon
+Anderson, Tinya
+Richter, Jeffrey and Trace, Kristen
+","Inspector
+Buyer
+Title rep
+Escrow
+Primary seller
+","2
+4
+0
+2
+3
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{BA1335CA-DD7C-4750-AE09-0424DEABF94B},"Sphere of influence
+Windermere Business",,,Connie,Smith,,,,,,,"Dear Connie and Clint,",Connie and Clint Smith,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2003-11-09 10:49:39 AM2003-09-26 06:31:16 AM2003-08-05 08:16:33 AM2003-05-10 01:52:14 PM2003-03-22 10:23:14 AM2003-01-21 07:12:31 AM2002-11-12 10:55:24 AM2002-09-12 07:19:52 AM2002-09-10 12:53:35 PM2002-07-20 09:11:20 AM2002-05-21 07:10:27 AM2002-03-21 01:16:21 PM2002-01-22 01:31:07 PM2001-10-19 09:45:59 AM2001-08-20 04:06:44 PM2001-06-13 07:35:46 AM2001-06-13 07:30:19 AM2001-04-22 08:41:57 AM2001-02-12 10:50:48 AM,11/09/2003 10:49 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:31 AM by Cynthia Schoonmaker -  Label: Avery 516008/05/2003 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:52 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 10:23 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:12 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:55 AM by Cynthia Schoonmaker -  Label: Avery 516009/12/2002 07:19 AM by Cynthia Schoonmaker -  Label: Avery 516009/10/2002 12:53 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 09:11 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 07:10 AM by Cynthia Schoonmaker -  Label: Avery 516003/21/2002 01:16 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:31 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:45 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 04:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/13/2001 07:35 AM by Cynthia Schoonmaker -  Label: Avery 516006/13/2001 07:30 AM by Cynthia Schoonmaker -  Label: Avery 516004/22/2001 08:41 AM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Clint,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{472B5F6F-CB26-46D3-923F-400637A61D9D},Primary,327,,157th Ave. NE,,,,,,Bellevue,,WA,98008,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{6C1E3281-52E1-4BC3-8C7A-04713F703EAC},"Contractor
+Windermere Business",,,Greg,Kozak,,,,,,,"Dear Greg,",Greg Kozak,Master Contractor,,,,No,,,,,,,,206-769-4938,,,,,,,,,,,,,,,,,,,,11/3/05 14:50,11/03/2005 02:50 PM by Cynthia Schoonmaker -,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{EC67D561-82A8-49EC-9905-A5C5DDF69F0D},Primary,,,,,,,,,Issaquah,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{0680906B-D607-493C-9AE0-04B7D51BEA8A},"EIF Specialist
+Windermere Business",,,Mark,Underwood,,,,,,,"Dear Mark,",Mark Underwood,,,,,No,,,,,,,,360-830-5134,,,,,,,,,,,,,,,,,,,,7/4/05 14:05,07/04/2005 02:05 PM by Cynthia Schoonmaker - Per Peni,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{5CF00103-CDC0-4C3F-8113-54400B385CA4},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{58F7C642-C18B-4BF1-B622-04CDE7870E94},"Bulk Mail
+Windermere Business",,,Dave,Lindstrom,,,,,,,"Dear Dave and Sandy,",Dave and Sandy Lindstrom,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2005-11-09 11:51:02 AM2005-07-07 08:44:31 AM2004-10-24 02:21:18 PM2004-01-09 11:36:08 AM2004-01-09 11:35:01 AM2003-11-08 10:54:37 AM2003-09-26 06:21:55 AM2003-07-23 06:12:33 AM2003-05-10 01:45:35 PM2003-03-22 09:46:19 AM2003-01-21 07:03:25 AM2002-11-12 08:16:47 AM2002-11-12 08:10:51 AM2002-09-09 07:25:19 PM2002-07-20 08:30:05 AM2002-05-21 06:54:19 AM2002-03-19 03:35:34 PM2002-01-22 01:15:58 PM2001-10-23 02:21:57 PM2001-10-19 09:29:11 AM2001-08-20 03:44:51 PM2001-06-10 12:41:49 PM2001-06-10 12:06:53 PM2001-06-10 12:02:28 PM2001-06-10 11:56:30 AM2001-06-08 09:30:08 PM2001-04-21 05:13:30 PM2001-02-12 10:50:46 AM2000-10-22 12:43:14 PM2000-08-24 12:02:52 PM2000-06-17 08:02:15 AM2000-04-20 09:55:47 PM2000-04-20 09:11:36 PM2000-04-20 09:09:36 PM2000-02-21 12:10:45 PM2000-02-21 12:05:47 PM2000-02-21 11:56:07 AM1999-11-18 02:46:16 PM1999-09-07 08:23:04 AM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Sandy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{33EADDE9-8891-4E73-AA13-F83851B64115},Primary,6910,,96th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{526928F9-E81F-4FA6-85D9-04D7754D180A},"Past client-1999
+Windermere Business",,,Dan,Connealy,,,,,,,"Dear Dan and Gloria,",Dan and Gloria Connealy,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2003-01-21 07:12:30 AM2002-05-21 07:10:27 AM2001-10-19 09:45:59 AM2001-02-12 10:50:43 AM2000-04-20 09:55:44 PM2000-04-20 09:11:33 PM2000-04-20 09:09:36 PM2000-02-21 12:10:43 PM2000-02-21 12:05:44 PM2000-02-21 11:56:04 AM,01/21/2003 07:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 07:10 AM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:45 AM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Gloria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{2D19945F-229F-42AA-A743-1848BEDA32D9},Primary,11300,,Canterbury Court,,,,,,Leawood,,KS,66211,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA98167A-EF61-4BE3-ABC3-052C71398265},"Calendar 2013
+Calendar 2014
+Past Client 2013",,,Beth,Loken,Larson,,,,,,"Dear Beth,",Beth Loken,,,,larsonloken@comcast.net,No,,,,,206-232-5657,,,,,,,,,,,,,206-406-0644,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0A9D61E8-010D-4A14-B6E6-E6A634280B36},Primary,7800,SE,27th,Street,,206,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA98167A-EF61-4BE3-ABC3-052C71398265},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{08926DD4-742C-4423-B389-0FED04879CC9},Pre-owned,5331,W,Mercer,Way,,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA98167A-EF61-4BE3-ABC3-052C71398265},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{38259A90-AB58-4760-9D2D-445DEE58E0E6},{7A109E66-0AB5-4454-A0E5-51350493696A},"5331 W Mercer Way, Mercer Island, WA",10/9/13,9/30/13,,Resale - single family,,1375000,4/9/13,183,,,9,Closed/Paid Transferred,,,"
+","
+","Loken, Beth",{DA98167A-EF61-4BE3-ABC3-052C71398265},3,,No,No,,,,{16B803FD-6C6D-4C9E-B778-3FDE6B3E6A3C},{7A109E66-0AB5-4454-A0E5-51350493696A},"5331 W Mercer Way, Mercer Island, WA",,1300000,35432.77,,,Resale - single family,5/9/13,6/30/13,5/31/13,Seller,"{DA98167A-EF61-4BE3-ABC3-052C71398265}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{460D3723-F243-44F3-827E-53D1AFB12033}
+{7C452B84-C718-4E50-90A8-66B4F1C8C335}
+{E6729F94-0C08-4C3B-9B28-E35B64EB8BCA}
+","Loken, Beth
+Nickerson, Cori
+Anderson, Tinya
+Potashnick, Jane
+Davis, Richard
+Weiss, Peter and Robin
+","Seller
+Title rep
+Escrow
+Realtor
+Lender
+Buyer
+","3
+2
+2
+2
+2
+4
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA98167A-EF61-4BE3-ABC3-052C71398265},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{38F93245-35B6-4308-8575-572C448D1849},{7A109E66-0AB5-4454-A0E5-51350493696A},"5331 W Mercer Way, Mercer Island, WA",,1360000,40800,,,Resale - single family,4/12/13,6/8/13,5/29/13,Seller,"{DA98167A-EF61-4BE3-ABC3-052C71398265}
+{7FE54852-1E1A-4468-B691-0C936B44EE93}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{C14AF2BA-3090-4A7F-AEB2-3930AC1EE505}
+{6ACBD507-3600-4F25-8D87-C2EB4ED28D6C}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+","Loken, Beth
+Tyler, Aaron
+Nickerson, Cori
+Conway, Tim
+Kwon, David and Lee, Bo
+Anderson, Tinya
+","Seller
+Lender
+Title rep
+Realtor
+Buyer
+Escrow
+","3
+2
+2
+2
+4
+2
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{616B4F75-63CB-4A9E-8502-054346EF72ED},"A List
+Bulk Mail
+Windermere Business",,,Gail,Cohen,,,,,,,"Dear Gail,",Gail Cohen,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2006-01-12 12:14:55 PM2005-11-10 01:13:55 PM2005-11-09 11:51:01 AM2005-07-07 08:44:29 AM2005-02-06 11:13:32 AM2005-01-17 11:47:24 AM2004-10-24 02:21:16 PM2004-02-14 11:16:08 AM2004-02-08 09:57:27 AM2004-01-09 11:36:06 AM2004-01-09 11:34:58 AM2003-11-08 10:54:34 AM2003-09-26 06:21:53 AM2003-07-23 06:12:31 AM2003-05-10 01:45:31 PM2003-03-22 09:46:14 AM2003-01-21 07:03:21 AM2002-11-12 08:16:45 AM2002-11-12 08:10:47 AM2002-09-09 07:25:16 PM,01/12/2006 12:14 PM by Cynthia Schoonmaker -  Label: Avery 516011/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516002/06/2005 11:13 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516002/14/2004 11:16 AM by Cynthia Schoonmaker -  Label: Avery 516002/08/2004 09:57 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:34 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{13C06B3C-25BA-408B-952B-5A31E51E25D1},Primary,8835,,SE 72nd Place,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B71025F5-2B09-4475-BA77-056F3CFB92DA},"Realtor
+Windermere Business",,,Robert,Pong,,,,,,,"Dear Robert,",Robert Pong,Windermere Real Estate,,,robertp@windermere.com,No,,,,,,,,,,,,,,,,,,206-310-2014,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{037AFAFF-C332-48EF-885A-7D3AB4AC9CF7},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B71025F5-2B09-4475-BA77-056F3CFB92DA},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{37D7F3E2-AA82-4550-A563-D7ED949D0261},{28893DB6-A6E3-4A2D-B2E8-CE59A577AC8C},"7360 85th Pl SE, Mercer Island, WA",26114023,759000,17383,,,,10/11/06,11/17/07,11/17/06,Buyer,"{B71025F5-2B09-4475-BA77-056F3CFB92DA}
+{844F69CD-48BC-4EEA-BB30-4AD1DF79B2FC}
+{4D7EC751-F81E-460C-94F8-62A030009006}
+{77A950E8-DD41-43FF-9D0A-A5F2AF7F5141}
+{57A477DB-7C84-410A-955C-B19454FA2117}
+","Pong, Robert
+Anderson, Tinya
+Zhao, Ying Bin
+Zhou, Tongwen and Wang, Helen
+Lum, Joane
+","Realtor
+Escrow
+Seller
+Buyer
+Lender
+","2
+2
+3
+4
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A76132B9-BA00-4AE7-A5EB-0599690A9781},"Realtor
+Windermere Business",Referral,,Kristi,Johnson,,,,,,,"Dear Kristi,",Kristi Johnson,WRE,,,,No,,,,,,,,,,,,,,Other bus.,206-524-1100,,,206-999-9574,,cell,,,,206-526-7614,,,,2001-02-12 10:50:45 AM2000-06-17 08:02:12 AM2000-04-20 09:55:42 PM2000-04-20 09:48:35 PM2000-04-20 09:11:32 PM2000-04-20 09:09:36 PM2000-04-20 09:07:30 PM2000-02-21 12:10:43 PM2000-02-21 12:05:45 PM2000-02-21 11:56:03 AM,02/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:48 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:07 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{707B8377-05D3-438E-9D57-8BDAD30CDEA4},Primary,5424,,Sandpoint Way NE,,,,,,Seattle,,Wa,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0289C8AA-B7B7-445F-9C5A-554CA3DDA359},"Wade, Don",{A76132B9-BA00-4AE7-A5EB-0599690A9781},"Johnson, Kristi",Received,,,1/23/01,1,Active,,0,0,0,,0,,4,New,,
+{A76132B9-BA00-4AE7-A5EB-0599690A9781},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{72D487A5-75CD-4D6D-AC3E-F7C9119AC636},{964AB5F9-F8FE-4F4F-A293-8AE1C68053DA},"12727 27th Ave. NE, Seattle, WA",21007904,250000,4781,,,,1/19/01,2/16/01,2/16/01,Seller,"{A76132B9-BA00-4AE7-A5EB-0599690A9781}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{26436BFC-AA39-406D-B7C5-46063EB3CE49}
+{EDE2B3A4-1F94-45C2-A254-5719699EF15B}
+{1CDF1787-D9A8-4F3B-84AA-D6F317079641}
+{393B975D-8145-41EC-9FA6-C6DA697F05F4}
+","Johnson, Kristi
+Nickerson, Cori and Pollack, Sharon
+Miller, Anthony
+Levy, Mark
+Prewitt, Lee and Jennifer
+Renee
+","Realtor
+Title rep
+Buyer
+Lender
+Seller
+Escrow
+","2
+2
+4
+2
+3
+2
+",7,Closed/Paid Transferred,2001-02-08 02:32:38 PM2001-01-30 07:49:00 PM2001-01-23 01:42:04 PM2001-01-19 02:49:00 PM,"02/08/2001 02:32 PM by Cynthia Schoonmaker - Called Escrow Group-Renee Henry
+will call Prewitts tomorrow to schedule signing.01/30/2001 07:49 PM by Cynthia Schoonmaker - Asked Kristi about--earnest money deposit, Bay Mtg details, early closing?01/23/2001 01:42 PM by Cynthia Schoonmaker - Don Wade, Duro-heating-425-742-927601/19/2001 02:49 PM by Cynthia Schoonmaker - Title #3120261",,,,,,,,,,,,,,,,,,,,,,,,
+{8826F1F9-4881-4539-AD5B-05ECB8E09DB8},"Geotechnical Engineer
+Windermere Business",,,Dale,Snyder,,,,,,,"Dear Dale,",Dale Snyder,,,,,No,,,,,,,,425-868-6107,,,,,,Other bus.,425-610-7541,,Voicemail,,,,,,,,,,,2/19/00 11:41,02/19/2000 11:41 AM by Cynthia Schoonmaker - Recommended by Bob Williams (soils engineer),0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{22C340F6-D98E-4B7C-A8CE-281EF8B86F54},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{6BF0C93E-DCBF-4C41-9E1C-063A11A8066D},"Realtor
+Windermere Business",,,Susan,Sellin,,,,,,,"Dear Susan,",Susan Sellin,Windermere RENW,,,,No,,,,,,,,,,,,,,,,,,206-940-2595,,,,,,206-324-1525,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0DC97A5E-C199-4F8D-BCD5-BB45ADDC86AC},Primary,,,Madison,,,,,,Seattle,,WA,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{6BF0C93E-DCBF-4C41-9E1C-063A11A8066D},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{4C369CC6-783E-4077-8256-EF0C10612A90},{0BBEFBFE-26E9-48AB-9BFD-5F29BF615307},"2647 Cascadia Ave. S, Seattle, WA",21049531,2395000,50894,Referral,,,4/19/01,7/19/01,6/19/01,Buyer,"{6BF0C93E-DCBF-4C41-9E1C-063A11A8066D}
+{D2BDB85C-4BFE-4269-947F-22DDEC407089}
+{D2754C40-A78A-4E04-AA8E-24EA8D22AAF5}
+{1BCF2EEA-181C-4BE8-B13E-845050236E64}
+","Sellin, Susan
+Tompkins, JoAnne and Schorr, Jon
+Smith, Sara
+Kaplan, David and Anita
+","Realtor
+Seller
+Escrow
+Buyer
+","2
+3
+2
+4
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{26C100B1-7093-4ED0-9D01-0649F5CDADCD},Lender,,,Vincent,Rosanova,,,,,,,"Dear Vincent,",Vincent Rosanova,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,12/23/10 17:39,12/23/2010 05:39PM by Cynthia Schoonmaker - from Peni/Pam--Jumbo loans?,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{9870A7B0-DF96-479E-A4E6-2EA707D9FB6C},Primary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{CAF1F7B4-59E1-4C67-9D37-066FA43A7532},"Water/Drainage
+Windermere Business",,,All Seasons Basement,Waterproofing,,,,,,,"Dear All Seasons Basement,",All Seasons Basement Waterproofing,,,,,No,,,,,,,,206-522-6200,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D98704E4-43B5-49BC-B035-9569AA2AB9CE},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{597A91D9-EEF9-4584-BE24-06C1AB356F34},Windermere Business,,,Tana,Kaplan,,,,,,,"Dear Tana,",Tana Kaplan,,,,,No,,,,,011 353 87-987-9540,,,,,,,,,,,,,,,,,,,,,,,2/4/02 9:53,"02/04/2002 09:53 AM by Cynthia Schoonmaker - BA Mileage 24212122
+
+==================
+Dina Marie (917) 507-5350",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{70B96644-3B6D-4454-B2BE-74D555F4AF50},Primary,,,Room 49.3.4,,,,,,Dublin 2,,,,Ireland,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{1B8CEEF7-3514-4FF6-B284-06D5845A3011},"Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Christmas
+Windermere Business",,,Edward,Knopf,,,,,,,"Dear Edward and Donna,",Edward and Donna Knopf,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,2006-03-21 11:36:36 AM2005-11-10 01:13:55 PM2005-11-09 11:51:02 AM2005-07-07 08:44:31 AM2005-02-06 11:13:33 AM2005-01-17 11:47:25 AM2004-10-24 02:21:18 PM2004-02-08 09:57:28 AM2004-01-09 11:36:08 AM2004-01-09 11:35:01 AM2003-12-03 10:15:48 AM2003-11-08 10:54:37 AM2003-09-26 06:21:55 AM2003-07-23 06:12:33 AM2003-05-10 01:45:35 PM2003-03-22 09:46:19 AM2003-01-21 07:03:25 AM2002-12-11 04:57:03 PM2002-11-12 08:16:47 AM2002-11-12 08:10:50 AM2002-11-05 07:47:53 AM2002-09-09 07:25:19 PM2002-07-20 08:30:05 AM2002-05-21 06:54:19 AM2002-03-19 03:35:34 PM2002-03-07 06:00:17 AM2002-01-22 01:15:57 PM2001-12-21 03:52:34 PM2001-10-23 02:22:00 PM2001-10-19 09:29:11 AM2001-08-20 03:44:51 PM2001-06-10 12:41:49 PM2001-06-10 12:06:53 PM2001-06-08 09:30:08 PM2001-04-21 05:13:30 PM2001-02-12 10:50:46 AM2000-10-22 12:43:13 PM2000-08-24 12:02:52 PM2000-06-17 08:02:15 AM2000-04-20 09:55:47 PM2000-04-20 09:11:35 PM2000-04-20 09:09:37 PM2000-02-21 12:10:45 PM2000-02-21 12:05:49 PM2000-02-21 11:56:06 AM1999-11-18 02:46:15 PM1999-09-07 08:23:03 AM1999-08-24 12:43:51 PM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516011/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516002/06/2005 11:13 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516002/08/2004 09:57 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516012/03/2003 10:15 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516011/05/2002 07:47 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:22 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,Donna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{8A0DD3F1-F6ED-4A0A-918B-F3E6E7EE1500},Primary,9507,,SE 43rd Street,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B0BD9D40-A7D0-4E36-8502-06EEEFBCC306},"Gardener
+Windermere Business",,,Mr. Han,,,,,,,,"Dear Mr. Han,",Mr. Han,,,,,No,,,,,206-320-8463,,,,,,,,,,,,,,,,,,,,,,,3/18/04 8:00,03/18/2004 08:00 AM by Cynthia Schoonmaker - Referred by Iris Raven-Stark--remember to negotiate,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D145EA91-7FE8-4C29-B473-7FE7B9A35FAA},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{ED351A29-543A-4549-ADDA-070CFDA5E9D4},"Bulk Mail
+Windermere Business",,,Arnold,Smith,,,,,,,"Dear Arnold and Cheyne,",Arnold Smith and Cheyne Smith-Peterson,,,,porsha_911@msn.com,No,,,,,206-236-9005,,,,,,,,,,,,,206-387-9005,,,,,,,,,,2005-11-09 11:51:03 AM2005-07-07 08:44:32 AM2004-10-24 02:21:20 PM2004-01-09 11:36:09 AM2004-01-09 11:35:03 AM2003-11-08 10:54:39 AM2003-09-26 06:21:57 AM2003-07-23 06:12:35 AM2003-05-24 09:20:00 PM,11/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/24/2003 09:20 PM by Cynthia Schoonmaker - Met at open houses-purchased house at open in April 3003--have investment prop in Groveland,0,Cheyne,Smith-Peterson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{9B36E74F-5817-4A21-87B4-835B78893C76},Primary,4711,,84th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{ED351A29-543A-4549-ADDA-070CFDA5E9D4},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D367282D-1409-41A7-AEBE-76E08190954C},Investment,5709,,80th Ave SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{5A05492E-B6D8-4CA1-9318-0740EC4FF2BC},"Inspector
+Windermere Business",,,Richard,Matzen,,,,,,,"Dear Richard,",Richard Matzen,,,,richmatzen@attbi.com,No,www.hbiinspections.com,,,,,,,206-784-1217,,,,,,,,,,,,,,,,206-784-0372,,,,11/22/02 19:33,11/22/2002 07:33 PM by Cynthia Schoonmaker - 5-02 inspected Bob Johnson & Christine Shafner house--recommended to them by the radio home-guy? (ASHI),0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{8E725F17-BA3E-438B-9F45-A2FF124B1760},Primary,220,,NW 58th St,,,,,,Seattle,,WA,98107,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{E5F5A8DC-C3BD-4860-8F74-074B721459B0},Windermere Business,,,Kim,Sahlin,,,,,,,"Dear Kim and Kurt,",Kim and Kurt Sahlin,,,,kimsahlin@hotmail.com,No,,,,,206-517-5230,,,,,,,,,,,,,,,,,,,,,,,2004-07-07 08:33:00 AM2004-01-10 12:08:30 PM2003-09-26 06:31:16 AM2003-08-05 08:16:32 AM2003-05-10 01:52:14 PM2003-03-22 10:23:15 AM2003-01-21 07:12:31 AM2002-11-12 10:55:24 AM2002-09-12 07:19:52 AM2002-09-10 12:53:35 PM2002-07-20 09:11:20 AM2002-05-21 07:10:27 AM2002-03-23 12:36:00 PM2002-03-23 12:36:00 PM,07/07/2004 08:33 AM by Cynthia Schoonmaker - Purchased house in Seattle01/10/2004 12:08 PM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:31 AM by Cynthia Schoonmaker -  Label: Avery 516008/05/2003 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:52 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 10:23 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:12 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:55 AM by Cynthia Schoonmaker -  Label: Avery 516009/12/2002 07:19 AM by Cynthia Schoonmaker -  Label: Avery 516009/10/2002 12:53 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 09:11 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 07:10 AM by Cynthia Schoonmaker -  Label: Avery 516003/23/2002 12:36 PM by Cynthia Schoonmaker - Daughter of Chick Hodge--450 range03/23/2002 12:36 PM by Cynthia Schoonmaker - 2 kids,0,Kurt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{249B8147-31FD-405A-AE3B-77B5F71FB4D8},Primary,5034,,46th Ave NE,,,,,,Seattle,,WA,98103,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{D15CB801-65DB-4D5F-95E9-07592F0A59E0},"A List
+Windermere Business",,,Ted,Cohrt,,,,,,,"Dear Ted and Linda,",Ted Cohrt and Linda Ewald,,,,,No,,,,,206-230-5551,,,,,,,,,,,,,,,,,,,,,,,2003-11-08 10:54:34 AM2003-09-26 06:21:53 AM2003-07-23 06:12:31 AM2003-05-10 01:45:32 PM2003-03-22 09:46:14 AM2003-01-21 07:03:21 AM,11/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Linda,Ewald,,,,,,,,,"Brian
+Matt","
+","
+","Family
+Family","Yes
+Yes",,,,,,,,,,,,,,,,,,,,,,{ECB9B7FF-A0E4-4D0A-8111-8D938DD52AF8},Primary,6011,,West Mercer Way,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B1B97AB1-0FA4-4DBA-B842-0792543B1A98},Past Client 2010,,,Brett & Jennifer,Tanzer,,,,,,,"Dear Brett & Jennifer,",Brett & Jennifer Tanzer,,,,brettt@microsoft.com,No,,,,,,,,,,,,,,,,,,631-897-1282,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{5CB8DC1B-83A5-43CD-9925-318E3E508103},Primary,8470,,North Mercer,Way,,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{4766A845-17CA-4FB0-AC54-AA7EC3E3FA1F},{5CB8DC1B-83A5-43CD-9925-318E3E508103},"8470 North Mercer Way, Mercer Island, WA",649,1150000,13129.85,,,Resale - single family,1/9/10,2/8/10,2/8/10,Seller,"{B1B97AB1-0FA4-4DBA-B842-0792543B1A98}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{F69EC5B8-BD9B-4D96-A151-4A0F6395720C}
+{6B3494BA-DE58-464D-A11B-5B664B59F2FE}
+{8C1C86A5-A6C3-44C2-BDD5-F3EFF81E658B}
+{CE535D88-A880-4C16-BB5C-D67723890BC9}
+","Tanzer, Brett & Jennifer
+Nickerson, Cori
+Fend, David and Peggy
+Way, Laurie
+Morrison, Sharon
+Fletcher, Jennifer
+","Buyer
+Title rep
+Seller
+Realtor
+Lender
+Escrow
+","4
+2
+3
+2
+2
+2
+",7,Closed/Paid Transferred,2010-01-13 09:52:06 AM2010-01-13 09:32:29 AM2010-01-13 09:29:54 AM2010-01-13 09:14:57 AM2010-01-13 09:10:24 AM2010-01-11 08:30:50 AM,01/13/2010 9:52AM by Cynthia Schoonmaker - EM deposited in CBB Trust AccountWPI Real Estate Services 206-522-8172 (for Mercer Park Lane)Seller may give notice of termintaion of Agreement any time following 3 days after deliviering Notice of Right to Terminate01/13/2010 9:14AM by Cynthia Schoonmaker - Buyer has 5 days to review HOA material from receipt.2 Business Days after receipt of Buyer's Notice01/11/2010 08:30AM by Cynthia Schoonmaker - ,,,,,,,,,,,,,,,,,,,,,,,,
+{C99F8EE2-8425-4853-9E1C-07E78C1FE413},Windermere Business,,,The Big Guys Home Del,The Big Guys Home Delivery,,,,,,,"Dear The Big Guys Home Del,",The Big Guys Home Del The Big Guys Home Delivery,"The Big Guys Home Delivery, Inc.",,,,No,,,,,,,,425-820-8500,,,,,,,,,,,,,,,,425-820-5101,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{82A937A0-96D0-4DDB-9CD0-EDAE209A2D06},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{B8BEFC28-D1CE-4E5E-BCAE-08082B1A08E0},"Realtor
+Windermere Business",,,Maureen,Nolan,,,,,,,"Dear Maureen,",Maureen Nolan,Windermere,,,,No,,,,,,,,206-389-9090,,,,,,,,,,,,,,,,,,,,7/30/03 21:44,07/30/2003 09:44 PM by Cynthia Schoonmaker - Referred bonnie & Kerry's listing (Friedman),0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{402F40D0-F1D7-420A-AF8F-7DF6C5D89BE3},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{17C93772-DEFD-4253-B6CA-081EA2B699DE},"Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Friend
+Past Client 2013
+Windermere Business",,,Hal,Thorsvig,,,,,,,"Dear Hal and Kathy,",Hal and Kathy Thorsvig,,,,,No,,,,,206-232-5298,,,,,,,,,,,,,209-819-4709,,,,,,,,,,2006-03-21 11:36:37 AM2005-11-10 01:13:56 PM2005-11-09 11:51:04 AM2005-07-07 08:44:32 AM2005-01-17 11:47:25 AM2004-10-24 02:21:20 PM2004-01-09 11:36:10 AM2004-01-09 11:35:03 AM2003-12-03 10:15:49 AM2003-11-08 10:54:39 AM2003-09-26 06:21:58 AM2003-07-23 06:12:35 AM2003-05-10 01:45:38 PM2003-03-22 09:46:22 AM2003-01-21 07:03:28 AM2002-12-11 04:57:05 PM2002-11-12 10:39:18 AM2002-11-12 08:16:49 AM2002-11-12 08:10:54 AM2002-09-09 07:25:22 PM2002-07-20 08:30:08 AM2002-05-21 06:54:22 AM2002-03-21 08:09:04 AM2002-03-19 03:35:37 PM2002-03-07 06:00:20 AM2002-01-22 01:16:01 PM2001-12-21 03:52:35 PM2001-10-23 02:22:00 PM2001-10-19 09:41:03 AM2001-10-19 09:29:14 AM2001-08-20 03:56:20 PM2001-08-20 03:44:54 PM2001-06-10 12:41:52 PM2001-06-10 12:32:49 PM2001-06-10 12:06:55 PM2001-06-08 09:30:11 PM2001-04-21 05:13:33 PM2001-02-12 10:50:49 AM2000-10-22 12:43:16 PM2000-08-24 12:02:55 PM2000-06-17 08:02:17 AM2000-04-20 09:55:50 PM2000-04-20 09:11:38 PM2000-04-20 09:09:38 PM2000-02-21 12:10:46 PM2000-02-21 12:05:50 PM2000-02-21 11:56:09 AM1999-11-18 02:46:17 PM1999-09-07 08:23:05 AM1999-08-24 12:43:52 PM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516011/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516012/03/2003 10:15 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:39 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/21/2002 08:09 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:16 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:22 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:41 AM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:56 PM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:32 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,Kathy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{A18B9FAB-F150-45D1-877B-7821DAAEAB1C},Primary,1655,N,Bluff,Road,,,,,Coupeville,,WA,98239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{17C93772-DEFD-4253-B6CA-081EA2B699DE},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{BDC38D8B-1BA6-4764-8490-112D819D21A7},Investment,1655,N,Bluff,Road,,,,,Coupeville,,WA,,USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{17C93772-DEFD-4253-B6CA-081EA2B699DE},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{02899B9D-FBA5-4BB5-B6B8-36D3346C1E8D},Pre-owned,8533,SE,76th,Place,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{17C93772-DEFD-4253-B6CA-081EA2B699DE},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{0D6CFD77-7C7F-4582-ABBB-E8792DDCBD80},{E744730D-457A-4C2B-A955-A00E9C34D29E},"8533 SE 76th Place, Mercer Island, WA",10/31/13,10/21/13,,Resale - single family,,838000,8/24/13,68,,,9,Closed/Paid Transferred,,,"
+","
+","Thorsvig, Hal and Kathy",{17C93772-DEFD-4253-B6CA-081EA2B699DE},0,,No,No,,,,{5D7C0C13-E60D-46DC-BF5E-127C5FEB7F86},{E744730D-457A-4C2B-A955-A00E9C34D29E},"8533 SE 76th Place, Mercer Island, WA",,815000,20537.9,,,Resale - single family,10/6/13,11/11/13,11/11/13,Seller,"{17C93772-DEFD-4253-B6CA-081EA2B699DE}
+{195626F0-63DF-4A51-ACC1-114FF23B28CF}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{39A62A90-C9D5-4D7C-AD37-523856F4056E}
+{1FDA0D1F-5CE9-499E-B4CF-AD69FBB2E646}
+{643444B7-E913-4A8F-B4C1-9ABEE2D026D9}
+{576AEDF5-81AE-40DA-997E-9C34017E4DCB}
+","Thorsvig, Hal and Kathy
+Clarke, Terry
+Nickerson, Cori
+Verschueren, Cindy
+Ruud, Andrew and Kweon, Su
+Bunich, Christy
+De Pena, Amanda
+","Seller
+Inspector
+Title rep
+Realtor
+Buyer
+Escrow
+Lender
+","3
+2
+2
+2
+4
+2
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{17C93772-DEFD-4253-B6CA-081EA2B699DE},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F627266E-DBBB-47EF-8525-02C6A6A981D2},{E744730D-457A-4C2B-A955-A00E9C34D29E},"8533 SE 76th Place, Mercer Island, WA",,850000,0,,,Resale - single family,8/28/13,9/30/13,9/30/13,Seller,"{17C93772-DEFD-4253-B6CA-081EA2B699DE}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{BD127CE4-FB0E-46EE-B13B-6BB8236C5CF9}
+{64CDD515-094F-47BF-9ED2-7D11DE3206FC}
+{6036337C-A67A-4309-AB19-8555799D97E4}
+{6A12509E-EB66-402E-AE5B-F7C732FED3B3}
+{4B1E145A-7DFD-4326-8069-B1104A2AC6B7}
+","Thorsvig, Hal and Kathy
+Nickerson, Cori
+Poon, David
+Balconi, Angie
+Barratt, Laurence
+Posada-Garcia, Monica
+Wuen, Yee
+","Seller
+Title rep
+Lender
+Escrow
+Realtor
+Realtor
+Buyer
+","3
+2
+2
+2
+2
+2
+4
+",5,Fell Thru,,,,,,,,,,,,,,,,,,,,,,,,,,
+{61CB3DE4-599E-485C-AFEF-0854EAD2963C},"Calendar 2011
+Windermere Business",,,Laurie,Jack,,,,,,,"Dear Laurie and McHale,",Laurie and McHale Jack,,,,,No,,,,,206-329-1967,,,,,,,,,,,,,,,,,,,,,,,,,0,McHale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{C917F0BF-0CD8-4ABE-B295-AF48923FEC49},Primary,1214,,E. Hamlin,,,,,,Seattle,,WA,98102,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{E1E8FBA0-B0D9-419B-8FB8-08778ABBC5DC},"Artist
+Windermere Business",,,Alyson,Markley,,,,,,,"Dear Alyson,",Alyson Markley,,,,alysonrm@comcast.net,No,,,,,425-821-2992,,,206-498-2162,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{BD7133F0-2DEF-48E6-A7BB-633747A796CB},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A4E371B6-7E91-4B41-A0E3-08C6CB918AB4},"Organization
+Windermere Business",,,Sandra,Andrews-Strasko,,,,,,,"Dear Sandra,",Sandra Andrews-Strasko,Empty Your Nest,,,sandra@emptyyournest.com,No,,,,,,,,206-214-7797,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{2D664E9E-4536-4DE4-BAEE-9AA82D5613CD},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{A68D8ABC-D671-4E28-9347-0929894E9A4A},"Pending sale
+Windermere Business",,,Edgar,Campbell,,,,,,,"Dear Edgar and Linda,",Edgar and Linda Campbell,,,,edns@qwest.net,No,,,,,206-232-0632,,,,,,,,,,,,,,,,,,,,,,,,,0,Linda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{AB4317B4-5934-442A-B545-48B81901FC5E},Primary,4465,,West Mercer Way,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{C9E9F009-A2F1-4E52-985B-37103BAB0E9A},{AB4317B4-5934-442A-B545-48B81901FC5E},"4465 West Mercer Way, Mercer Island, WA",24057183,1075000,17945,,,,6/6/04,8/25/04,8/16/04,Seller,"{A68D8ABC-D671-4E28-9347-0929894E9A4A}
+{9F0BE229-6303-473B-A5BB-2F240B4AC1E3}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{7FB1A3F5-F8BB-4C69-9979-7407AA7F77E3}
+{804A2A4E-AFEF-477F-89B4-EF122C88569F}
+{D22CD796-255C-4016-BDDA-F950F1E55D72}
+{A137FD45-8DF9-4BF1-983F-BD414B8D868E}
+","Campbell, Edgar and Linda
+Tiernan, Tracy and Eguchi, Lauren
+Nickerson, Cori and Pollack, Sharon
+Eng, Chris
+Buckingham, Dick and Judy
+Lohnes, Jerry
+Weathers, Lindy
+","Buyer
+Escrow
+Title rep
+Lender
+Seller
+Inspector
+Realtor
+","4
+2
+2
+2
+3
+2
+2
+",7,Closed/Paid Transferred,6/8/04 12:41,06/08/2004 12:41 PM by Cynthia Schoonmaker - 20046030,,,,,,,,,,,,,,,,,,,,,,,,
+{A68D8ABC-D671-4E28-9347-0929894E9A4A},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{85F843FE-271B-445A-945F-F377E4201E8C},Investment,3635,,72nd Pl SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{558A11D3-DE6D-45E7-8817-095394D8D1AD},"Bulk Mail
+Calendar
+Calendar 2011
+Calendar 2012
+Calendar 2013
+Calendar 2014
+Calendar-08
+Windermere Business",,,Lynn,Hagerman,,,,,,,"Dear Lynn and Jim,",Lynn Hagerman and Jim Hummer,,,,lynnhagerman@attbi.com,No,,Email,JimHummer@att.net,Email: Jim's e-mail,206-232-9082,,,,,,,,,,,,,,,,,,,,,,,2006-03-21 11:36:36 AM2006-01-12 12:14:55 PM2005-11-10 01:13:55 PM2005-11-09 11:51:02 AM2005-11-02 10:36:58 AM2005-07-07 08:44:30 AM2005-02-06 11:13:33 AM2005-01-17 11:47:25 AM2004-10-24 02:21:17 PM2004-01-09 11:36:07 AM2004-01-09 11:35:00 AM2003-11-08 10:54:36 AM2003-09-26 06:21:54 AM2003-07-23 06:12:32 AM2003-05-10 01:45:34 PM2003-03-22 09:46:18 AM2003-01-21 07:03:24 AM2002-12-11 04:57:03 PM2002-11-12 08:16:46 AM2002-11-12 08:10:50 AM2002-11-05 07:47:53 AM2002-09-09 07:25:18 PM2002-07-20 08:30:04 AM2002-05-21 06:54:18 AM2002-03-19 03:35:32 PM2002-03-07 06:00:15 AM2002-01-22 01:15:57 PM2001-12-21 03:52:33 PM2001-10-23 02:21:52 PM2001-10-19 09:29:10 AM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/12/2006 12:14 PM by Cynthia Schoonmaker -  Label: Avery 516011/10/2005 01:13 PM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516011/02/2005 10:36 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516002/06/2005 11:13 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516011/05/2002 07:47 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 5160,0,Jim,Hummer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{79317CE3-54F0-4657-AB29-EDE364F23060},Primary,3058,,61st Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{AA2B185B-4583-4B73-BD5D-095756EC6D73},"Bulk Mail
+Calendar
+Windermere Business",,,Roger,Paige,,,,,,,"Dear Roger,",Roger Paige,Island Books,,,,No,,,,,,,,206-232-6920,,,,,,,,,,,,,,,,,,,,2006-03-21 11:36:36 AM2005-11-09 11:51:03 AM2005-07-07 08:44:31 AM2005-02-11 10:58:49 AM2005-01-17 11:47:25 AM2004-10-24 02:21:19 PM2004-01-09 11:36:09 AM2004-01-09 11:35:02 AM2003-12-03 10:15:49 AM2003-11-08 10:54:38 AM2003-09-26 06:21:56 AM2003-07-23 06:12:34 AM2003-05-10 01:45:36 PM2003-05-06 07:25:54 AM2003-03-22 09:46:20 AM2003-01-21 07:03:26 AM2002-12-11 04:57:04 PM2002-11-12 10:49:01 AM2002-11-12 08:16:48 AM2002-11-12 08:10:52 AM2002-11-05 07:47:53 AM2002-09-09 07:25:20 PM2002-07-20 08:30:06 AM2002-05-21 06:54:20 AM2002-03-19 08:14:28 PM2002-03-19 03:35:35 PM2002-03-07 06:00:18 AM2002-01-22 01:15:59 PM2001-12-21 03:52:34 PM2001-10-23 02:21:54 PM2001-10-19 09:29:12 AM2001-08-20 03:44:52 PM2001-06-10 12:41:50 PM2001-06-10 12:06:54 PM2001-06-08 09:30:09 PM2001-04-21 05:13:31 PM2001-02-12 10:50:47 AM2000-10-22 12:43:15 PM2000-08-24 12:02:53 PM2000-06-17 08:02:16 AM2000-04-20 09:55:48 PM2000-04-20 09:11:36 PM2000-04-20 09:09:40 PM2000-02-21 12:10:49 PM2000-02-21 12:05:46 PM2000-02-21 11:56:07 AM1999-11-18 02:46:16 PM1999-09-07 08:23:04 AM1999-08-24 12:43:52 PM,03/21/2006 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516011/09/2005 11:51 AM by Cynthia Schoonmaker -  Label: Avery 516007/07/2005 08:44 AM by Cynthia Schoonmaker -  Label: Avery 516002/11/2005 10:58 AM by Cynthia Schoonmaker -  Label: Avery 516001/17/2005 11:47 AM by Cynthia Schoonmaker -  Label: Avery 516010/24/2004 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:36 AM by Cynthia Schoonmaker -  Label: Avery 516001/09/2004 11:35 AM by Cynthia Schoonmaker -  Label: Avery 516012/03/2003 10:15 AM by Cynthia Schoonmaker -  Label: Avery 516011/08/2003 10:54 AM by Cynthia Schoonmaker -  Label: Avery 516009/26/2003 06:21 AM by Cynthia Schoonmaker -  Label: Avery 516007/23/2003 06:12 AM by Cynthia Schoonmaker -  Label: Avery 516005/10/2003 01:45 PM by Cynthia Schoonmaker -  Label: Avery 516005/06/2003 07:25 AM by Cynthia Schoonmaker -  Label: Avery 516003/22/2003 09:46 AM by Cynthia Schoonmaker -  Label: Avery 516001/21/2003 07:03 AM by Cynthia Schoonmaker -  Label: Avery 516012/11/2002 04:57 PM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 10:49 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:16 AM by Cynthia Schoonmaker -  Label: Avery 516011/12/2002 08:10 AM by Cynthia Schoonmaker -  Label: Avery 516011/05/2002 07:47 AM by Cynthia Schoonmaker -  Label: Avery 516009/09/2002 07:25 PM by Cynthia Schoonmaker -  Label: Avery 516007/20/2002 08:30 AM by Cynthia Schoonmaker -  Label: Avery 516005/21/2002 06:54 AM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 08:14 PM by Cynthia Schoonmaker -  Label: Avery 516003/19/2002 03:35 PM by Cynthia Schoonmaker -  Label: Avery 516003/07/2002 06:00 AM by Cynthia Schoonmaker -  Label: Avery 516001/22/2002 01:15 PM by Cynthia Schoonmaker -  Label: Avery 516012/21/2001 03:52 PM by Cynthia Schoonmaker -  Label: Avery 516010/23/2001 02:21 PM by Cynthia Schoonmaker -  Label: Avery 516010/19/2001 09:29 AM by Cynthia Schoonmaker -  Label: Avery 516008/20/2001 03:44 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:41 PM by Cynthia Schoonmaker -  Label: Avery 516006/10/2001 12:06 PM by Cynthia Schoonmaker -  Label: Avery 516006/08/2001 09:30 PM by Cynthia Schoonmaker -  Label: Avery 516004/21/2001 05:13 PM by Cynthia Schoonmaker -  Label: Avery 516002/12/2001 10:50 AM by Cynthia Schoonmaker -  Label: Avery 516010/22/2000 12:43 PM by Cynthia Schoonmaker -  Label: Avery 516008/24/2000 12:02 PM by Cynthia Schoonmaker -  Label: Avery 516006/17/2000 08:02 AM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:55 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:11 PM by Cynthia Schoonmaker -  Label: Avery 516004/20/2000 09:09 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:10 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 12:05 PM by Cynthia Schoonmaker -  Label: Avery 516002/21/2000 11:56 AM by Cynthia Schoonmaker -  Label: Avery 516011/18/1999 02:46 PM by Cynthia Schoonmaker -  Label: Avery 516009/07/1999 08:23 AM by Cynthia Schoonmaker -  Label: Avery 516008/24/1999 12:43 PM by Cynthia Schoonmaker -  Label: Avery 5160,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{A666B29C-D1B8-47F2-9C6A-A87AA243699F},Primary,3014,,78th Ave. SE,,,,,,Mercer Island,,WA,98040,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA65DFAB-AFBD-4D4A-B145-0965F2C651DD},"Realtor
+Windermere Business",,,Paul,Kim,,,,,,,"Dear Paul,",Paul Kim,Keller Williams,,,,No,,,,,425-454-0911,,,206-686-3134,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{D1CAB80D-5932-490F-98E2-70A3CF3B90FF},Primary,,,,,,,,,,,,,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA65DFAB-AFBD-4D4A-B145-0965F2C651DD},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{919AA48B-7375-49F0-9CEC-D83ACD7394B6},Pre-owned,6810,,119th place SE,,,,,,Bellevue,,WA,98006,,,,0,,0,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{DA65DFAB-AFBD-4D4A-B145-0965F2C651DD},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{AD02D3C7-C9E3-4DBF-868E-49315DD68198},{2DA53D96-9828-4E57-9FF4-D26387278F99},"6810 119th place SE, Bellevue, WA",23010633,300000,3517,,,,2/13/03,4/23/03,3/24/03,Buyer,"{DA65DFAB-AFBD-4D4A-B145-0965F2C651DD}
+{780A1AB4-2898-4BFF-B378-4419C440B00B}
+{19045C75-2043-474A-A190-A6341703AC04}
+","Kim, Paul
+Hoffner, Andrew and Skye
+Crothamel, Fred
+","Seller
+Buyer
+Lender
+","3
+4
+2
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3F13428B-18FD-49E3-BDAD-0985900BCDC9},"Calendar 2014
+Past Client-2014",,,Cory,Mackie,,,,,,,"Dear Tim,",Tim O'Brien,,,,cory.mackie@comcast.net,No,,Other Email,tim.obrien@comcast.net,Tim,,,,,,,,,,,,,,206-310-8383,,Cory,,,,,,,,,,0,Tim,O'Brien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{F4155A3E-1D00-4A5B-B868-772F7F717408},Primary,3744,,Benton,Street,,,,,Santa Clara,,CA,95051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3F13428B-18FD-49E3-BDAD-0985900BCDC9},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{38D2C429-EC36-4844-A8D5-77F6A8F10089},Pre-owned,4591,E,Mercer,Way,,,,,Mercer Island,,WA,98040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+{3F13428B-18FD-49E3-BDAD-0985900BCDC9},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{BB73B991-A304-4E65-8DB0-A92F79FFCA4B},{FA3CB732-0DC7-4094-91E3-55CBFA86B2EF},"4591 E Mercer Way, Mercer Island, WA",,1118000,27452.8,,,Resale - single family,5/28/14,7/31/14,7/31/14,Seller,"{3F13428B-18FD-49E3-BDAD-0985900BCDC9}
+{97877178-6479-4FEF-A148-267D5C4FF1C5}
+{93B31ADC-9FD2-4E82-98D7-32FCFEA6D844}
+{C96D977D-2C35-487F-9E61-7FEA772F03D3}
+{E2323C20-22B7-4D92-A659-B60ABB3DFC1F}
+{F3DFE11C-D7E0-4075-BD96-D9BDB75F3345}
+","Mackie, Cory and O'Brien, Tim
+Wu, Lisa
+Nickerson, Cori
+Bunich, Christy
+Situ, Shuyi
+Li, Run and He, Xiao
+","Seller
+Lender
+Title rep
+Escrow
+Realtor
+Buyer
+","3
+2
+2
+2
+2
+4
+",7,Closed/Paid Transferred,,,,,,,,,,,,,,,,,,,,,,,,,,
