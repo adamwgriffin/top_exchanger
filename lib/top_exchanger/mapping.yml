@@ -5,7 +5,7 @@
 # call to use on the field value.
 
 # All exchange fields are included as keys, even if we are not mapping
-# a CMS field to them. This is so the app can use them to build the
+# a field to them. This is so the app can use them to build the
 # headers for the import file it generates to do the exchange import.
 
 Title: Primary Title
@@ -77,7 +77,8 @@ E-mail 3 Type:
 E-mail 3 Display Name:
 Home Address PO Box:
 Manager's Name:
-Notes:
+# "Contact Notes" may be from a different Top Producer export file type than this was originally used with
+Notes: Contact Notes
 Office Location:
 Other Address PO Box:
 Web page:

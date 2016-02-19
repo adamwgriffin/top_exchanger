@@ -9,5 +9,5 @@ task :test_gem do
 end
 
 task :ready_for_the_day => [:install_gem, :test_gem] do
-  puts "Test run successfully!"
+  puts "Gem built and test run successfully."
 end
