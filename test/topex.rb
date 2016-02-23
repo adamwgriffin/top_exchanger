@@ -37,4 +37,4 @@ import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
 
 translater = TopProducerO365.new(import_file, export_file)
 # TODO: must add option in o365_translator.rb to skip blank names
-translater.translate!(options[:encoding])
+translater.translate(options)

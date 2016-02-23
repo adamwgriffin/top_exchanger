@@ -5,7 +5,9 @@ task :install_gem do
 end
 
 task :test_gem do
-  ruby "test/test.rb"
+  top_producer_file = File.join(File.dirname(File.expand_path(__FILE__)), "test", "export", "tp_export-partial.csv")
+  office365_export_file = File.join(File.dirname(File.expand_path(__FILE__)), "export_test.csv")
+  ruby "test/topex.rb #{top_producer_file} #{office365_export_file}"
 end
 
 task :ready_for_the_day => [:install_gem, :test_gem] do
