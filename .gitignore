@@ -13,3 +13,4 @@
 *.a
 mkmf.log
 export_test.csv
+*.gem
