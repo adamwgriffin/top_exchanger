@@ -77,8 +77,8 @@ E-mail 3 Type:
 E-mail 3 Display Name:
 Home Address PO Box:
 Manager's Name:
-# "Contact Notes" may be from a different Top Producer export file type than this was originally used with
-Notes: Contact Notes
+# The Contact Notes field is not working when importing into the desktop version of Outlook
+# Notes: Contact Notes
 Office Location:
 Other Address PO Box:
 Web page:
