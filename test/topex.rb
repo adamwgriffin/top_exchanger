@@ -35,6 +35,6 @@ import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
 # try to guess text encoding. THIS THING IS GUESSING BINARY FOR SOME REASON
 # encoding = `file -b --mime-encoding #{export_file}`.chomp
 
-translater = TopProducerO365.new(import_file, export_file)
+translator = TopProducerO365.new(import_file, export_file)
 # TODO: must add option in o365_translator.rb to skip blank names
-translater.translate(options)
+translator.translate(options)
