@@ -7,7 +7,6 @@
 /pkg/
 /spec/reports/
 /tmp/
-export/
 *.bundle
 *.so
 *.o

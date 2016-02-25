@@ -4,7 +4,7 @@ require 'optparse'
 require "top_exchanger"
 
 MAPPING = File.join(File.dirname(File.expand_path(__FILE__)), "mapping.yml")
-DEFAULT_OUTPUT_NAME = "O365_import_file.csv"
+DEFAULT_OUTPUT_NAME = "moxi_import-outlook_2010-13.csv"
 
 def error(usage, message)
   puts message if message
