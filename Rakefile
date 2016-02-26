@@ -1,7 +1,7 @@
 require "bundler/gem_tasks"
 
 task :install_gem do
-   sh "gem build top_exchanger.gemspec && gem install ./top_exchanger-*.gem"
+   sh "gem build top_exchanger.gemspec && gem cleanup top_exchanger && gem uninstall top_exchanger && gem install ./top_exchanger-*.gem"
 end
 
 task :test_gem do
