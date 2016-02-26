@@ -1,6 +1,7 @@
 require 'csv'
 require 'yaml'
 require 'active_support/core_ext/hash/slice'
+require 'pry-byebug'
 
 module O365Translator
 
@@ -25,6 +26,7 @@ module O365Translator
       opts = {encoding: nil, skip_blank: nil}.merge(opts)
       transcode = opts[:encoding] ? "#{opts[:encoding] }:UTF-8" : nil
       CSV.foreach(@export_file, headers: true, encoding: transcode) do |contact|
+        binding.pry
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
           if map_col.is_a? Hash
