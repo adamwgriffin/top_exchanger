@@ -38,6 +38,8 @@ module O365Translator
         end
         @output << new_contact unless ( opts[:skip_blank] && blank_row?(new_contact) )
       end
+      # must explicitly close file, otherwise the buffer won't be flushed & when we try to read it later it will not be the whole file 
+      @output.close
     rescue CSV::MalformedCSVError => e
      raise "Error parsing CSV: #{e}"
     end
