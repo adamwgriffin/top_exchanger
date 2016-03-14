@@ -1,6 +1,7 @@
 require 'csv'
 require 'yaml'
 require 'active_support/core_ext/hash/slice'
+require 'pry-debugger'
 
 module O365Translator
 
@@ -8,12 +9,19 @@ module O365Translator
 
     attr_reader :import_file, :export_file, :mapping
 
+    ENCODING_OPTIONS = {
+      :invalid           => :replace,  # Replace invalid byte sequences
+      :undef             => :replace,  # Replace anything not defined in ASCII
+      :replace           => '',        # Use a blank for those replacements
+      :universal_newline => true       # Always break lines with \n
+    }
+
     def initialize(import_file, export_file, mapping_file)
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the file we're going to translate to o365 format
       @import_file = import_file
-      @output = CSV.open(@import_file, "wb") # this is the translated file we're going to ouput
+      @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
       @output << @import_headers
     end
 
@@ -24,9 +32,12 @@ module O365Translator
     def translate(opts = {})
       opts = {encoding: nil, skip_blank: nil}.merge(opts)
       transcode = opts[:encoding] ? "#{opts[:encoding] }:UTF-8" : nil
-      CSV.foreach(@export_file, headers: true, force_quotes: true, encoding: transcode) do |contact|
+      CSV.foreach(@export_file, headers: true, encoding: transcode) do |contact|
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
+          if map_col == "Notes" && opts[:remove_non_ascii]
+            contact[map_col] = contact[map_col].encode(Encoding.find('ASCII'), encoding_options)
+          end
           if map_col.is_a? Hash
             # map_col['map'] is an array of fields. The * splat gives a list of strings for slice()
             field_hash = contact.to_hash.slice( *map_col['map'] )
