@@ -42,7 +42,7 @@ module O365Translator
             # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
             contact[map_col] = contact[map_col].gsub(/[[:cntrl:]]/, ' ')
           end
-          binding.pry if map_col == "Notes"
+          binding.pry
           if map_col.is_a? Hash
             # map_col['map'] is an array of fields. The * splat gives a list of strings for slice()
             field_hash = contact.to_hash.slice( *map_col['map'] )
