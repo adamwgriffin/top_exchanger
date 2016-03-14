@@ -35,11 +35,10 @@ module O365Translator
       CSV.foreach(@export_file, headers: true, encoding: transcode) do |contact|
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
-          if map_col == "Contact Notes" && opts[:remove_non_ascii]
-            binding.pry
+          if map_col == "Contact Notes" && opts[:remove_non_ascii] && !(contact[map_col] == nil)
             contact[map_col] = contact[map_col].encode(Encoding.find('ASCII'), ENCODING_OPTIONS)
           end
-          if map_col == "Contact Notes" && opts[:remove_control_chars]
+          if map_col == "Contact Notes" && opts[:remove_control_chars] && !(contact[map_col] == nil)
             # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
             contact[map_col] = contact[map_col].gsub(/[[:cntrl:]]/, ' ')
           end
