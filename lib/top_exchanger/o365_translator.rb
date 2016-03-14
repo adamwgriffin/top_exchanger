@@ -38,6 +38,10 @@ module O365Translator
           if map_col == "Notes" && opts[:remove_non_ascii]
             contact[map_col] = contact[map_col].encode(Encoding.find('ASCII'), encoding_options)
           end
+          if map_col == "Notes" && opts[:remove_control_chars]
+            # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
+            contact[map_col] = contact[map_col].gsub(/[[:cntrl:]]/, ' ')
+          end
           if map_col.is_a? Hash
             # map_col['map'] is an array of fields. The * splat gives a list of strings for slice()
             field_hash = contact.to_hash.slice( *map_col['map'] )
