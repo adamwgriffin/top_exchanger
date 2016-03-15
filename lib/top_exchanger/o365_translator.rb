@@ -22,7 +22,7 @@ module O365Translator
       @export_file = export_file # this is the file we're going to translate to o365 format
       @import_file = import_file
       # @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
-      @output = CSV.open(@import_file, "wb", :row_end => "\r\n")
+      @output = CSV.open(@import_file, "wb", :row_sep => "\r\n")
       @output << @import_headers
     end
 
