@@ -13,7 +13,7 @@ module O365Translator
       :invalid           => :replace,  # Replace invalid byte sequences
       :undef             => :replace,  # Replace anything not defined in ASCII
       :replace           => '',        # Use a blank for those replacements
-      :universal_newline => true       # Always break lines with \n
+      :crlf_newline      => true       # Always break lines with \n
     }
 
     def initialize(import_file, export_file, mapping_file)
@@ -21,7 +21,8 @@ module O365Translator
       @import_headers = @mapping.keys
       @export_file = export_file # this is the file we're going to translate to o365 format
       @import_file = import_file
-      @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
+      # @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
+      @output = CSV.open(@import_file, "wb", :row_end => "\r\n")
       @output << @import_headers
     end
 
