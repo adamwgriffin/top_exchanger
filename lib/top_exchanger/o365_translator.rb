@@ -15,7 +15,7 @@ module O365Translator
       @export_file = export_file # this is the file we're going to translate to o365 format
       @import_file = import_file
       # @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
-      @output = CSV.open(@import_file, "wb", :row_sep => row_seperator) # try force_quotes next./
+      @output = CSV.open(@import_file, "wb", force_quotes: true, row_sep: row_seperator) # try force_quotes next./
       @output << @import_headers
     end
 
