@@ -5,15 +5,15 @@ class TopProducerO365 < O365Translator::Base
 
   @@default_mapping_file = File.join(File.dirname(File.expand_path(__FILE__)), "top_exchanger", "mapping.yml")
 
-  def initialize(import_file, export_file, mapping_file=@@default_mapping_file)
-    super(import_file, export_file, mapping_file)
+  def initialize(import_file, export_file, row_seperator="\n", mapping_file=@@default_mapping_file)
+    super(import_file, export_file, row_seperator, mapping_file)
   end
 
   def add_unit_num(unit, bldg)
     if unit
       unit_num = unit
       # some have Ste, other have #, some have nothing.
-      # adding '#' to those that are numbers fixes 90% of these 
+      # adding '#' to those that are numbers fixes 90% of these
       unit_num = '#' + unit if unit.match(/\A(\d)+\z/)
     end
     if (unit && bldg)
@@ -40,6 +40,5 @@ class TopProducerO365 < O365Translator::Base
     street = fields.values << unit
     street.join(' ').strip.squeeze(' ') # concatenate street, no extra whitespace
   end
-  
-end
 
+end

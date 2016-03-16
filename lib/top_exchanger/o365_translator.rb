@@ -9,13 +9,13 @@ module O365Translator
 
     attr_reader :import_file, :export_file, :mapping
 
-    def initialize(import_file, export_file, mapping_file, row_seperator="\n")
+    def initialize(import_file, export_file, row_seperator="\n", mapping_file)
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the file we're going to translate to o365 format
       @import_file = import_file
       # @output = CSV.open(@import_file, "wb", force_quotes: true) # this is the translated file we're going to ouput
-      @output = CSV.open(@import_file, "wb", :row_sep => row_seperator) # try force_quotes next
+      @output = CSV.open(@import_file, "wb", :row_sep => row_seperator) # try force_quotes next./
       @output << @import_headers
     end
 
