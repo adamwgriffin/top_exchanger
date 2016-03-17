@@ -7,10 +7,9 @@ class TopProducerO365 < O365Translator::Base
 
   def initialize(import_file, export_file, mapping_file=@@exchange_mapping_file, csv_input_opts={}, csv_output_opts={})
     # merge/override any csv opts that were passed in with the defaults
-    csv_input_opts = {headers: true}.merge(csv_input_opts)
     # using Windows line endings \r\n (CTRL + LF) because desktop Outlook does not like default \n
     csv_output_opts = {force_quotes: true, row_sep: "\r\n"}.merge(csv_output_opts)
-    super(import_file, export_file, row_seperator, mapping_file, csv_input_opts, csv_output_opts)
+    super(import_file, export_file, mapping_file, csv_input_opts, csv_output_opts)
   end
 
   def add_unit_num(unit, bldg)

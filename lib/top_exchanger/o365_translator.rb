@@ -15,6 +15,7 @@ module O365Translator
       @import_headers = @mapping.keys
       @export_file = export_file # this is the original file we're going to translate to o365 format
       @output = CSV.open(import_file, "wb", csv_output_opts) # this is the translated file we're going to ouput
+      @csv_input_opts = {headers: true}.merge(csv_input_opts) # merge default options with options passed in
       @output << @import_headers
     end
 
@@ -23,9 +24,8 @@ module O365Translator
     end
 
     def translate(opts = {})
-      opts = {encoding: nil, skip_blank: nil}.merge(opts) # TODO: move encoding out, keep skip_blank
-      transcode = opts[:encoding] ? "#{opts[:encoding] }:UTF-8" : nil # TODO: encoding should be passed down from application, move this code
-      CSV.foreach(@export_file, headers: true, encoding: transcode) do |contact|
+      opts = {skip_blank: nil}.merge(opts)
+      CSV.foreach(@export_file, @csv_input_opts) do |contact|
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
           # TODO: this option should probably be moved to top_exchanger.rb and put into mapping config

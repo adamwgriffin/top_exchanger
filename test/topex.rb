@@ -14,6 +14,8 @@ end
 
 # configure command line options
 options = {}
+csv_input_options = {}
+csv_output_options = {}
 optparse = OptionParser.new do|opts|
   opts.banner = "top_exchanger: translate Top Producer export files to Office 365 format
   Usage: top_exchanger [options] inputfile [outputfile]"
@@ -21,8 +23,11 @@ optparse = OptionParser.new do|opts|
      puts opts
      exit
   end
-  opts.on("-e ENCODING", "--encoding=ENCODING", "Specify the encoding of the input file, if not UTF-8") do |encoding|
-    options[:encoding] = encoding
+  opts.on("-e ENCODING", "--encoding=ENCODING", "Specify that you wish to transcode from one format to another, option must be in the following format: ISO-8859-15:UTF-8. Default is UTF-8.") do |encoding|
+    csv_input_options[:encoding] = encoding
+  end
+  opts.on("-r ROW_SEPARATOR", "--row-separator=ROW_SEPARATOR", 'Specify the the row seperator (line ending character) that should be used in the resulting file: \r\n for Windows, \n for *nix') do |row_separator|
+    csv_output_options[:row_sep] = row_separator
   end
 end
 optparse.parse!
@@ -32,11 +37,7 @@ export_file = ARGV.shift # this is the file we're going to translate
 error(optparse, "#{export_file} doesn't exist") unless File.file?(export_file)
 # this is the translated file we're going to ouput, give it a name if not specified
 import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
-# try to guess text encoding. THIS THING IS GUESSING BINARY FOR SOME REASON
-# encoding = `file -b --mime-encoding #{export_file}`.chomp
 
-translator = TopProducerO365.new(import_file, export_file, "\r\n") # TODO: add row sperator as command line option
+translator = TopProducerO365.new(import_file, export_file, csv_input_opts=csv_input_options, csv_output_opts=csv_output_options)
 
-# TODO: add this as a command line option
-options[:remove_control_chars] = true
 translator.translate(options)
