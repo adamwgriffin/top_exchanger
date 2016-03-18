@@ -2,8 +2,8 @@
 
 require 'optparse'
 require "top_exchanger"
+require 'pry-debugger'
 
-MAPPING = File.join(File.dirname(File.expand_path(__FILE__)), "mapping.yml")
 DEFAULT_OUTPUT_NAME = "moxi_import-outlook_2010-13.csv"
 
 def error(usage, message)
@@ -38,6 +38,6 @@ error(optparse, "#{export_file} doesn't exist") unless File.file?(export_file)
 # this is the translated file we're going to ouput, give it a name if not specified
 import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
 
-translator = TopProducerO365.new(import_file, export_file, csv_input_opts=csv_input_options, csv_output_opts=csv_output_options)
+translator = TopProducerToExchange.new(import_file, export_file, mapping_file=nil, csv_input_opts=csv_input_options, csv_output_opts=csv_output_options)
 
 translator.translate(options)

@@ -4,19 +4,21 @@ require 'active_support/core_ext/hash/slice'
 require 'pry-debugger'
 
 # TODO: change module name to be more generic
-module O365Translator
+module CsvTranslator
 
   class Base
 
     attr_reader :import_file, :export_file, :mapping
 
-    def initialize(import_file, export_file, mapping_file, csv_input_opts={}, csv_output_opts={})
+    def initialize(import_file, export_file, mapping_file, csv_input_opts={}, csv_output_opts={}, replace_chars=nil)
+
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the original file we're going to translate to o365 format
-      @output = CSV.open(import_file, "wb", csv_output_opts) # this is the translated file we're going to ouput
+      @output = CSV.open(import_file, "wb", csv_output_opts) # this is the translated file we're going to output
       @csv_input_opts = {headers: true}.merge(csv_input_opts) # merge default options with options passed in
       @output << @import_headers
+      @replace_chars = replace_chars
     end
 
     def blank_row?(row)
@@ -28,19 +30,16 @@ module O365Translator
       CSV.foreach(@export_file, @csv_input_opts) do |contact|
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
-          # TODO: this option should probably be moved to top_exchanger.rb and put into mapping config
-          if map_col == "Contact Notes" && opts[:remove_control_chars] && !(contact[map_col] == nil)
-            # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
-            contact[map_col] = contact[map_col].gsub(/[[:cntrl:]]/, ' ')
-          end
           if map_col.is_a? Hash
             # map_col['map'] is an array of fields. The * splat gives a list of strings for slice()
             field_hash = contact.to_hash.slice( *map_col['map'] )
             # call the method named in the config that will be defined in a subclass of this module
-            new_contact[exchange_col] = send( map_col['method'], field_hash )
-          else
-            new_contact[exchange_col] = contact[map_col]
+            contact[map_col] = send( map_col['method'], field_hash )
           end
+          if @replace_chars && @replace_chars[:fields].include?(map_col)
+            contact[map_col] = contact[map_col].to_s.gsub(@replace_chars[:find], @replace_chars[:replace])
+          end
+          new_contact[exchange_col] = contact[map_col]
         end
         @output << new_contact unless ( opts[:skip_blank] && blank_row?(new_contact) )
       end

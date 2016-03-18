@@ -10,6 +10,6 @@ task :test_gem do
   ruby "test/topex.rb #{top_producer_file} #{office365_export_file}"
 end
 
-task :ready_for_the_day => [:install_gem, :test_gem] do
+task :install_and_test => [:install_gem, :test_gem] do
   puts "Gem built and test run successfully."
 end

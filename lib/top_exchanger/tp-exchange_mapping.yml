@@ -1,8 +1,8 @@
 # Map Office 365 Exchange fields to Top Producer fields. The keys are
 # Exchange, their values are Top Producer. The value can also be a
 # hash with a "map" and/or "method" key. "Map" will be an array of
-# fields (presumeabley to concatentate), "method" will be a method to
-# call to use on the field value.
+# fields in case you need to concatenate them, "method" will be a method to
+# call to use on the field value(s).
 
 # All exchange fields are included as keys, even if we are not mapping
 # a field to them. This is so the app can use them to build the
