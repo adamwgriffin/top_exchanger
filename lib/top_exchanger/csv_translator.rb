@@ -3,7 +3,6 @@ require 'yaml'
 require 'active_support/core_ext/hash/slice'
 require 'pry-debugger'
 
-# TODO: change module name to be more generic
 module CsvTranslator
 
   class Base
@@ -11,7 +10,7 @@ module CsvTranslator
     attr_reader :import_file, :export_file, :mapping
 
     def initialize(import_file, export_file, mapping_file, csv_input_opts={}, csv_output_opts={}, replace_chars=nil)
-
+      puts "Inside CsvTranslator. Gem was installed. Using require_relative."
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the original file we're going to translate to o365 format

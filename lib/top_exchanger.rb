@@ -1,5 +1,5 @@
-require "top_exchanger/version"
-require "top_exchanger/csv_translator"
+require_relative "top_exchanger/version"
+require_relative "top_exchanger/csv_translator"
 require 'pry-debugger'
 
 class TopProducerToExchange < CsvTranslator::Base
@@ -9,6 +9,7 @@ class TopProducerToExchange < CsvTranslator::Base
   @@remove_control_chars = { fields: ["Contact Notes"], find: /[[:cntrl:]]/, replace: ' ' }
 
   def initialize(import_file, export_file, mapping_file=@@exchange_mapping_file, csv_input_opts={}, csv_output_opts={}, replace_chars=@@remove_control_chars)
+    puts "Inside TopProducerToExchange. Gem was installed. Using require_relative"
     # TODO: probaly want to do opts hash instead so that all arguments don't have to be included if they have default values
     mapping_file = mapping_file || @@exchange_mapping_file
     # merge/override any csv opts that were passed in with the defaults
