@@ -38,5 +38,4 @@ error(optparse, "#{export_file} doesn't exist") unless File.file?(export_file)
 import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
 
 translator = TopProducerToExchange.new(import_file, export_file, options)
-
 translator.translate()

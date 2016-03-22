@@ -2,7 +2,7 @@ require_relative "top_exchanger/version"
 require_relative "top_exchanger/csv_translator"
 require 'pry-debugger'
 
-class TopProducerToExchange < CsvTranslator::Base
+class TopProducerExchange < CsvTranslator::Base
 
   @@exchange_mapping_file = File.join(File.dirname(File.expand_path(__FILE__)), "top_exchanger", "tp-exchange_mapping.yml")
   # using Windows line endings \r\n (CTRL + LF) because desktop Outlook does not like default \n
