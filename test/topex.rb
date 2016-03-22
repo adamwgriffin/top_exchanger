@@ -14,8 +14,6 @@ end
 
 # configure command line options
 options = {}
-csv_input_options = {}
-csv_output_options = {}
 optparse = OptionParser.new do|opts|
   opts.banner = "top_exchanger: translate Top Producer export files to Office 365 format
   Usage: top_exchanger [options] inputfile [outputfile]"
@@ -24,10 +22,12 @@ optparse = OptionParser.new do|opts|
      exit
   end
   opts.on('-e ENCODING', '--encoding=ENCODING', "Specify that you wish to transcode from one format to another, option must be in the following format: ISO-8859-15:UTF-8. Default is UTF-8.") do |encoding|
-    csv_input_options[:encoding] = encoding
+    # csv_input_options[:encoding] = encoding
+    options[:csv_input_opts] = {encoding: encoding}
   end
-  opts.on('-r n', '--row-separator=n', 'Specify the the row seperator (line ending character) that should be used in the resulting file: rn for Windows, n for *nix') do |row_separator|
-    csv_output_options[:row_sep] = row_separator
+  opts.on('-r n', '--row-separator=n', 'Specify the the row seperator (line ending character) that should be used in the resulting file: rn for Windows, n for *nix') do |row_sep|
+    # csv_output_options[:row_sep] = row_sep
+    options[:csv_output_opts] = {row_sep: row_sep}
   end
 end
 optparse.parse!
@@ -37,6 +37,6 @@ error(optparse, "#{export_file} doesn't exist") unless File.file?(export_file)
 # this is the translated file we're going to ouput, give it a name if not specified
 import_file = ARGV.shift || DEFAULT_OUTPUT_NAME
 
-translator = TopProducerToExchange.new(import_file, export_file, mapping_file=nil, csv_input_opts=csv_input_options, csv_output_opts=csv_output_options)
+translator = TopProducerToExchange.new(import_file, export_file, options)
 
-translator.translate(options)
+translator.translate()

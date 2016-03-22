@@ -5,17 +5,15 @@ require 'pry-debugger'
 class TopProducerToExchange < CsvTranslator::Base
 
   @@exchange_mapping_file = File.join(File.dirname(File.expand_path(__FILE__)), "top_exchanger", "tp-exchange_mapping.yml")
+  # using Windows line endings \r\n (CTRL + LF) because desktop Outlook does not like default \n
+  @@csv_output_options = {force_quotes: true, row_sep: "\r\n"}
   # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
-  @@remove_control_chars = { fields: ["Contact Notes"], find: /[[:cntrl:]]/, replace: ' ' }
+  @@remove_control_chars = { fields: ["Contact Notes"], find: /[[:cntrl:]]/, replace: '' }
 
-  def initialize(import_file, export_file, mapping_file=@@exchange_mapping_file, csv_input_opts={}, csv_output_opts={}, replace_chars=@@remove_control_chars)
-    puts "Inside TopProducerToExchange. Gem was installed. Using require_relative"
-    # TODO: probaly want to do opts hash instead so that all arguments don't have to be included if they have default values
-    mapping_file = mapping_file || @@exchange_mapping_file
-    # merge/override any csv opts that were passed in with the defaults
-    # using Windows line endings \r\n (CTRL + LF) because desktop Outlook does not like default \n
-    csv_output_opts = {force_quotes: true, row_sep: "\r\n"}.merge(csv_output_opts)
-    super(import_file, export_file, mapping_file, csv_input_opts, csv_output_opts, replace_chars)
+  def initialize(import_file, export_file, opts={})
+    # merge/override any opts that were passed in with the defaults
+    opts = {csv_output_opts: @@csv_output_options, replace_chars: @@remove_control_chars}.merge(opts)
+    super(import_file, export_file, @@exchange_mapping_file, opts)
   end
 
   def add_unit_num(unit, bldg)

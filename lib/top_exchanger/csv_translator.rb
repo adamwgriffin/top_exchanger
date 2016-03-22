@@ -9,23 +9,23 @@ module CsvTranslator
 
     attr_reader :import_file, :export_file, :mapping
 
-    def initialize(import_file, export_file, mapping_file, csv_input_opts={}, csv_output_opts={}, replace_chars=nil)
-      puts "Inside CsvTranslator. Gem was installed. Using require_relative."
+    def initialize(import_file, export_file, mapping_file, opts={})
+      opts = {csv_input_opts: {headers: true}, replace_chars: nil}.merge(opts) # merge default options with options passed in
       @mapping = YAML.load_file(mapping_file)
       @import_headers = @mapping.keys
       @export_file = export_file # this is the original file we're going to translate to o365 format
-      @output = CSV.open(import_file, "wb", csv_output_opts) # this is the translated file we're going to output
-      @csv_input_opts = {headers: true}.merge(csv_input_opts) # merge default options with options passed in
+      @output = CSV.open(import_file, "wb", opts[:csv_output_opts]) # this is the translated file we're going to output
+      @csv_input_opts = opts[:csv_input_opts]
       @output << @import_headers
-      @replace_chars = replace_chars
+      @replace_chars = opts[:replace_chars]
     end
 
     def blank_row?(row)
       ( row.fields  - ["", nil] ).empty?
     end
 
-    def translate(opts = {})
-      opts = {skip_blank: nil}.merge(opts)
+    def translate(opts={})
+      opts = {skip_blank: false}.merge(opts)
       CSV.foreach(@export_file, @csv_input_opts) do |contact|
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
