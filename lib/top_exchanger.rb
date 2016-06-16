@@ -10,9 +10,12 @@ class TopProducerExchange < CsvTranslator::Base
   # remove invisible control characters such as \u0001 that cause import to fail in desktop version of Outlook
   @@remove_control_chars = { fields: ["Contact Notes"], find: /[[:cntrl:]]/, replace: '' }
 
+  # we want to skip extra rows with the same 'Contact ID' because those rows are extra listing/closing data fields
+  @@duplicate_columns = ['Contact ID']
+
   def initialize(import_file, export_file, opts={})
     # merge/override any opts that were passed in with the defaults
-    opts = {csv_output_opts: @@csv_output_options, replace_chars: @@remove_control_chars}.merge(opts)
+    opts = {csv_output_opts: @@csv_output_options, replace_chars: @@remove_control_chars, skip_dups: @@duplicate_columns}.merge(opts)
     super(import_file, export_file, @@exchange_mapping_file, opts)
   end
 

@@ -18,15 +18,27 @@ module CsvTranslator
       @csv_input_opts = opts[:csv_input_opts]
       @output << @import_headers
       @replace_chars = opts[:replace_chars]
+      @skip_dups = opts[:skip_dups]
     end
 
     def blank_row?(row)
       ( row.fields  - ["", nil] ).empty?
     end
 
+    def same_field_values?(previous, current)
+      previous.include? current.to_hash.slice(*@skip_dups).values
+    end
+
     def translate(opts={})
       opts = {skip_blank: false}.merge(opts)
+      previous_contacts = []
       CSV.foreach(@export_file, @csv_input_opts) do |contact|
+        # binding.pry
+        if @skip_dups
+          next if same_field_values?(previous_contacts, contact)
+          # add an array of the field values we use to determine what is a dup to previous_contacts to check later
+          previous_contacts << contact.to_hash.slice(*@skip_dups).values
+        end
         new_contact = CSV::Row.new(@import_headers, [])
         @mapping.each do |exchange_col, map_col|
           if map_col.is_a? Hash
