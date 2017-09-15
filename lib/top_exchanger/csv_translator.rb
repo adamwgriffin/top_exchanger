@@ -1,7 +1,6 @@
 require 'csv'
 require 'yaml'
 require 'active_support/core_ext/hash/slice'
-require 'pry-debugger'
 
 module CsvTranslator
 
@@ -33,7 +32,6 @@ module CsvTranslator
       opts = {skip_blank: false}.merge(opts)
       previous_contacts = []
       CSV.foreach(@export_file, @csv_input_opts) do |contact|
-        # binding.pry
         if @skip_dups
           next if same_field_values?(previous_contacts, contact)
           # add an array of the field values we use to determine what is a dup to previous_contacts to check later

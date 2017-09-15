@@ -1,6 +1,5 @@
 require_relative "top_exchanger/version"
 require_relative "top_exchanger/csv_translator"
-require 'pry-debugger'
 
 class TopProducerExchange < CsvTranslator::Base
 

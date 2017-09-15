@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Translate Top Producer export files to Office 365 format.}
   spec.description   = %q{Parses a Top Producer CSV export file and maps the appropriate fields to a new CSV.}
   spec.homepage      = "https://github.com/adamwgriffin"
-  spec.license       = "All Your Base Are Belong to Us"
+  spec.license       = "Nonstandard"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
@@ -20,6 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency 'pry-debugger', '~> 0'
   spec.add_runtime_dependency 'activesupport', '~> 4.1', '>= 4.1.8'
 end
