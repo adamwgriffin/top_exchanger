@@ -28,11 +28,16 @@ module CsvTranslator
       previous.include? current.to_hash.slice(*@skip_dups).values
     end
 
+    def dup_fields_present?(contact)
+      # some TP file formats may not include the field(s) that we use to check dups
+      contact.to_hash.slice(*@skip_dups).length > 0
+    end
+
     def translate(opts={})
       opts = {skip_blank: false}.merge(opts)
       previous_contacts = []
       CSV.foreach(@export_file, @csv_input_opts) do |contact|
-        if @skip_dups
+        if @skip_dups && dup_fields_present?(contact)
           next if same_field_values?(previous_contacts, contact)
           # add an array of the field values we use to determine what is a dup to previous_contacts to check later
           previous_contacts << contact.to_hash.slice(*@skip_dups).values
